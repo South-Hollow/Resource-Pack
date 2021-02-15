@@ -1,0 +1,253 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/iron_hoe"
+  },
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "zigafide/dirt_hat"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "zigafide/wool_hat"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "zigafide/tophat"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "zigafide/stained_glass"
+    },
+    {
+      "predicate": { "custom_model_data": 5 },
+      "model": "zigafide/diamond_hat"
+    },
+    {
+      "predicate": { "custom_model_data": 6 },
+      "model": "zigafide/cake_hat"
+    },
+    {
+      "predicate": { "custom_model_data": 7 },
+      "model": "zigafide/fedora"
+    },
+    {
+      "predicate": { "custom_model_data": 8 },
+      "model": "zigafide/jeb"
+    },
+    {
+      "predicate": { "custom_model_data": 9 },
+      "model": "zigafide/sunglasses"
+    },
+    {
+      "predicate": { "custom_model_data": 10 },
+      "model": "zigafide/sombrero"
+    },
+    {
+      "predicate": { "custom_model_data": 11 },
+      "model": "zigafide/horned_helmet"
+    },
+    {
+      "predicate": { "custom_model_data": 12 },
+      "model": "zigafide/crown"
+    },
+    {
+      "predicate": { "custom_model_data": 13 },
+      "model": "zigafide/spartan"
+    },
+    {
+      "predicate": { "custom_model_data": 14 },
+      "model": "zigafide/world"
+    },
+    {
+      "predicate": { "custom_model_data": 15 },
+      "model": "zigafide/halo"
+    },
+    {
+      "predicate": { "custom_model_data": 16 },
+      "model": "zigafide/horns"
+    },
+    {
+      "predicate": { "custom_model_data": 17 },
+      "model": "zigafide/catears"
+    },
+    {
+      "predicate": { "custom_model_data": 18 },
+      "model": "zigafide/witch"
+    },
+    {
+      "predicate": { "custom_model_data": 19 },
+      "model": "zigafide/santa"
+    },
+    {
+      "predicate": { "custom_model_data": 20 },
+      "model": "zigafide/christmastree"
+    },
+    {
+      "predicate": { "custom_model_data": 21 },
+      "model": "zigafide/goldfedora"
+    },
+    {
+      "predicate": { "custom_model_data": 22 },
+      "model": "zigafide/newyears"
+    },
+    {
+      "predicate": { "custom_model_data": 23 },
+      "model": "zigafide/baot"
+    },
+    {
+      "predicate": { "custom_model_data": 24 },
+      "model": "zigafide/jah"
+    },
+    {
+      "predicate": { "custom_model_data": 25 },
+      "model": "zigafide/fez"
+    },
+    {
+      "predicate": { "custom_model_data": 26 },
+      "model": "zigafide/slimemagma"
+    },
+    {
+      "predicate": { "custom_model_data": 27 },
+      "model": "zigafide/slimenormal"
+    },
+    {
+      "predicate": { "custom_model_data": 28 },
+      "model": "zigafide/jebfedora"
+    },
+    {
+      "predicate": { "custom_model_data": 690 },
+      "model": "zigafide/wool/black"
+    },
+    {
+      "predicate": { "custom_model_data": 691 },
+      "model": "zigafide/wool/blue"
+    },
+    {
+      "predicate": { "custom_model_data": 692 },
+      "model": "zigafide/wool/brown"
+    },
+    {
+      "predicate": { "custom_model_data": 693 },
+      "model": "zigafide/wool/cyan"
+    },
+    {
+      "predicate": { "custom_model_data": 694 },
+      "model": "zigafide/wool/gray"
+    },
+    {
+      "predicate": { "custom_model_data": 695 },
+      "model": "zigafide/wool/green"
+    },
+    {
+      "predicate": { "custom_model_data": 696 },
+      "model": "zigafide/wool/light_blue"
+    },
+    {
+      "predicate": { "custom_model_data": 697 },
+      "model": "zigafide/wool/light_gray"
+    },
+    {
+      "predicate": { "custom_model_data": 698 },
+      "model": "zigafide/wool/lime"
+    },
+    {
+      "predicate": { "custom_model_data": 699 },
+      "model": "zigafide/wool/megenta"
+    },
+    {
+      "predicate": { "custom_model_data": 700 },
+      "model": "zigafide/wool/orange"
+    },
+    {
+      "predicate": { "custom_model_data": 701 },
+      "model": "zigafide/wool/pink"
+    },
+    {
+      "predicate": { "custom_model_data": 702 },
+      "model": "zigafide/wool/purple"
+    },
+    {
+      "predicate": { "custom_model_data": 703 },
+      "model": "zigafide/wool/red"
+    },
+    {
+      "predicate": { "custom_model_data": 704 },
+      "model": "zigafide/wool/white"
+    },
+    {
+      "predicate": { "custom_model_data": 705 },
+      "model": "zigafide/wool/yellow"
+    },
+    {
+      "predicate": { "custom_model_data": 800 },
+      "model": "zigafide/glass/black"
+    },
+    {
+      "predicate": { "custom_model_data": 801 },
+      "model": "zigafide/glass/blue"
+    },
+    {
+      "predicate": { "custom_model_data": 802 },
+      "model": "zigafide/glass/brown"
+    },
+    {
+      "predicate": { "custom_model_data": 803 },
+      "model": "zigafide/glass/cyan"
+    },
+    {
+      "predicate": { "custom_model_data": 804 },
+      "model": "zigafide/glass/glass"
+    },
+    {
+      "predicate": { "custom_model_data": 805 },
+      "model": "zigafide/glass/gray"
+    },
+    {
+      "predicate": { "custom_model_data": 806 },
+      "model": "zigafide/glass/green"
+    },
+    {
+      "predicate": { "custom_model_data": 807 },
+      "model": "zigafide/glass/lblue"
+    },
+    {
+      "predicate": { "custom_model_data": 808 },
+      "model": "zigafide/glass/lgray"
+    },
+    {
+      "predicate": { "custom_model_data": 809 },
+      "model": "zigafide/glass/lime_glass"
+    },
+    {
+      "predicate": { "custom_model_data": 810 },
+      "model": "zigafide/glass/magenta"
+    },
+    {
+      "predicate": { "custom_model_data": 811 },
+      "model": "zigafide/glass/orange"
+    },
+    {
+      "predicate": { "custom_model_data": 812 },
+      "model": "zigafide/glass/pink"
+    },
+    {
+      "predicate": { "custom_model_data": 813 },
+      "model": "zigafide/glass/purple"
+    },
+    {
+      "predicate": { "custom_model_data": 814 },
+      "model": "zigafide/glass/red"
+    },
+    {
+      "predicate": { "custom_model_data": 815 },
+      "model": "zigafide/glass/white"
+    },
+    {
+      "predicate": { "custom_model_data": 816 },
+      "model": "zigafide/glass/yellow"
+    }
+  ]
+}

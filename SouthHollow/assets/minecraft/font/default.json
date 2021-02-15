@@ -1,0 +1,22 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/shlogo.png",
+            "ascent": 15,
+            "height": 60,
+            "chars": ["셚셙","션셗"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:emoji/shlogo.png",
+            "ascent": 32,
+            "height": 100,
+            "chars": ["섏섐","섑섒"]
+        },
+
+        {"type": "bitmap","file": "minecraft:emoji/mvlogo.png","ascent": 15,"height": 40,"chars": ["\u2EC7"]},
+        {"type": "bitmap","file": "minecraft:emoji/space.png","ascent": -32768,"height": -3,"chars": ["⻔"]}
+
+    ]
+}
