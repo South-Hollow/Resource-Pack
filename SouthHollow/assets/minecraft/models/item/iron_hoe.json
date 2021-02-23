@@ -7,247 +7,255 @@
   "overrides": [
     {
       "predicate": { "custom_model_data": 1 },
-      "model": "zigafide/dirt_hat"
+      "model": "hats/dirt_hat"
     },
     {
       "predicate": { "custom_model_data": 2 },
-      "model": "zigafide/wool_hat"
+      "model": "hats/wool_hat"
     },
     {
       "predicate": { "custom_model_data": 3 },
-      "model": "zigafide/tophat"
+      "model": "hats/tophat"
     },
     {
       "predicate": { "custom_model_data": 4 },
-      "model": "zigafide/stained_glass"
+      "model": "hats/stained_glass"
     },
     {
       "predicate": { "custom_model_data": 5 },
-      "model": "zigafide/diamond_hat"
+      "model": "hats/diamond_hat"
     },
     {
       "predicate": { "custom_model_data": 6 },
-      "model": "zigafide/cake_hat"
+      "model": "hats/cake_hat"
     },
     {
       "predicate": { "custom_model_data": 7 },
-      "model": "zigafide/fedora"
+      "model": "hats/fedora"
     },
     {
       "predicate": { "custom_model_data": 8 },
-      "model": "zigafide/jeb"
+      "model": "hats/jeb"
     },
     {
       "predicate": { "custom_model_data": 9 },
-      "model": "zigafide/sunglasses"
+      "model": "hats/sunglasses"
     },
     {
       "predicate": { "custom_model_data": 10 },
-      "model": "zigafide/sombrero"
+      "model": "hats/sombrero"
     },
     {
       "predicate": { "custom_model_data": 11 },
-      "model": "zigafide/horned_helmet"
+      "model": "hats/horned_helmet"
     },
     {
       "predicate": { "custom_model_data": 12 },
-      "model": "zigafide/crown"
+      "model": "hats/crown"
     },
     {
       "predicate": { "custom_model_data": 13 },
-      "model": "zigafide/spartan"
+      "model": "hats/spartan"
     },
     {
       "predicate": { "custom_model_data": 14 },
-      "model": "zigafide/world"
+      "model": "hats/world"
     },
     {
       "predicate": { "custom_model_data": 15 },
-      "model": "zigafide/halo"
+      "model": "hats/halo"
     },
     {
       "predicate": { "custom_model_data": 16 },
-      "model": "zigafide/horns"
+      "model": "hats/horns"
     },
     {
       "predicate": { "custom_model_data": 17 },
-      "model": "zigafide/catears"
+      "model": "hats/catears"
     },
     {
       "predicate": { "custom_model_data": 18 },
-      "model": "zigafide/witch"
+      "model": "hats/witch"
     },
     {
       "predicate": { "custom_model_data": 19 },
-      "model": "zigafide/santa"
+      "model": "hats/santa"
     },
     {
       "predicate": { "custom_model_data": 20 },
-      "model": "zigafide/christmastree"
+      "model": "hats/christmastree"
     },
     {
       "predicate": { "custom_model_data": 21 },
-      "model": "zigafide/goldfedora"
+      "model": "hats/goldfedora"
     },
     {
       "predicate": { "custom_model_data": 22 },
-      "model": "zigafide/newyears"
+      "model": "hats/newyears"
     },
     {
       "predicate": { "custom_model_data": 23 },
-      "model": "zigafide/baot"
+      "model": "hats/baot"
     },
     {
       "predicate": { "custom_model_data": 24 },
-      "model": "zigafide/jah"
+      "model": "hats/jah"
     },
     {
       "predicate": { "custom_model_data": 25 },
-      "model": "zigafide/fez"
+      "model": "hats/fez"
     },
     {
       "predicate": { "custom_model_data": 26 },
-      "model": "zigafide/slimemagma"
+      "model": "hats/slimemagma"
     },
     {
       "predicate": { "custom_model_data": 27 },
-      "model": "zigafide/slimenormal"
+      "model": "hats/slimenormal"
     },
     {
       "predicate": { "custom_model_data": 28 },
-      "model": "zigafide/jebfedora"
+      "model": "hats/jebfedora"
+    },
+    {
+      "predicate": { "custom_model_data": 29 },
+      "model": "hats/cowboy"
+    },
+    {
+      "predicate": { "custom_model_data": 30 },
+      "model": "hats/strawhat"
     },
     {
       "predicate": { "custom_model_data": 690 },
-      "model": "zigafide/wool/black"
+      "model": "hats/wool/black"
     },
     {
       "predicate": { "custom_model_data": 691 },
-      "model": "zigafide/wool/blue"
+      "model": "hats/wool/blue"
     },
     {
       "predicate": { "custom_model_data": 692 },
-      "model": "zigafide/wool/brown"
+      "model": "hats/wool/brown"
     },
     {
       "predicate": { "custom_model_data": 693 },
-      "model": "zigafide/wool/cyan"
+      "model": "hats/wool/cyan"
     },
     {
       "predicate": { "custom_model_data": 694 },
-      "model": "zigafide/wool/gray"
+      "model": "hats/wool/gray"
     },
     {
       "predicate": { "custom_model_data": 695 },
-      "model": "zigafide/wool/green"
+      "model": "hats/wool/green"
     },
     {
       "predicate": { "custom_model_data": 696 },
-      "model": "zigafide/wool/light_blue"
+      "model": "hats/wool/light_blue"
     },
     {
       "predicate": { "custom_model_data": 697 },
-      "model": "zigafide/wool/light_gray"
+      "model": "hats/wool/light_gray"
     },
     {
       "predicate": { "custom_model_data": 698 },
-      "model": "zigafide/wool/lime"
+      "model": "hats/wool/lime"
     },
     {
       "predicate": { "custom_model_data": 699 },
-      "model": "zigafide/wool/megenta"
+      "model": "hats/wool/megenta"
     },
     {
       "predicate": { "custom_model_data": 700 },
-      "model": "zigafide/wool/orange"
+      "model": "hats/wool/orange"
     },
     {
       "predicate": { "custom_model_data": 701 },
-      "model": "zigafide/wool/pink"
+      "model": "hats/wool/pink"
     },
     {
       "predicate": { "custom_model_data": 702 },
-      "model": "zigafide/wool/purple"
+      "model": "hats/wool/purple"
     },
     {
       "predicate": { "custom_model_data": 703 },
-      "model": "zigafide/wool/red"
+      "model": "hats/wool/red"
     },
     {
       "predicate": { "custom_model_data": 704 },
-      "model": "zigafide/wool/white"
+      "model": "hats/wool/white"
     },
     {
       "predicate": { "custom_model_data": 705 },
-      "model": "zigafide/wool/yellow"
+      "model": "hats/wool/yellow"
     },
     {
       "predicate": { "custom_model_data": 800 },
-      "model": "zigafide/glass/black"
+      "model": "hats/glass/black"
     },
     {
       "predicate": { "custom_model_data": 801 },
-      "model": "zigafide/glass/blue"
+      "model": "hats/glass/blue"
     },
     {
       "predicate": { "custom_model_data": 802 },
-      "model": "zigafide/glass/brown"
+      "model": "hats/glass/brown"
     },
     {
       "predicate": { "custom_model_data": 803 },
-      "model": "zigafide/glass/cyan"
+      "model": "hats/glass/cyan"
     },
     {
       "predicate": { "custom_model_data": 804 },
-      "model": "zigafide/glass/glass"
+      "model": "hats/glass/glass"
     },
     {
       "predicate": { "custom_model_data": 805 },
-      "model": "zigafide/glass/gray"
+      "model": "hats/glass/gray"
     },
     {
       "predicate": { "custom_model_data": 806 },
-      "model": "zigafide/glass/green"
+      "model": "hats/glass/green"
     },
     {
       "predicate": { "custom_model_data": 807 },
-      "model": "zigafide/glass/lblue"
+      "model": "hats/glass/lblue"
     },
     {
       "predicate": { "custom_model_data": 808 },
-      "model": "zigafide/glass/lgray"
+      "model": "hats/glass/lgray"
     },
     {
       "predicate": { "custom_model_data": 809 },
-      "model": "zigafide/glass/lime_glass"
+      "model": "hats/glass/lime_glass"
     },
     {
       "predicate": { "custom_model_data": 810 },
-      "model": "zigafide/glass/magenta"
+      "model": "hats/glass/magenta"
     },
     {
       "predicate": { "custom_model_data": 811 },
-      "model": "zigafide/glass/orange"
+      "model": "hats/glass/orange"
     },
     {
       "predicate": { "custom_model_data": 812 },
-      "model": "zigafide/glass/pink"
+      "model": "hats/glass/pink"
     },
     {
       "predicate": { "custom_model_data": 813 },
-      "model": "zigafide/glass/purple"
+      "model": "hats/glass/purple"
     },
     {
       "predicate": { "custom_model_data": 814 },
-      "model": "zigafide/glass/red"
+      "model": "hats/glass/red"
     },
     {
       "predicate": { "custom_model_data": 815 },
-      "model": "zigafide/glass/white"
+      "model": "hats/glass/white"
     },
     {
       "predicate": { "custom_model_data": 816 },
-      "model": "zigafide/glass/yellow"
+      "model": "hats/glass/yellow"
     }
   ]
 }

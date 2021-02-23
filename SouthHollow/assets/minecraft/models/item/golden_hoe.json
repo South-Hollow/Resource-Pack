@@ -7,251 +7,255 @@
   "overrides": [
     {
       "predicate": { "custom_model_data": 1 },
-      "model": "zigafide/hatgui/dirt_hat"
+      "model": "hats/hatgui/dirt_hat"
     },
     {
       "predicate": { "custom_model_data": 2 },
-      "model": "zigafide/hatgui/wool_hat"
+      "model": "hats/hatgui/wool_hat"
     },
     {
       "predicate": { "custom_model_data": 3 },
-      "model": "zigafide/hatgui/tophat"
+      "model": "hats/hatgui/tophat"
     },
     {
       "predicate": { "custom_model_data": 4 },
-      "model": "zigafide/hatgui/stained_glass"
+      "model": "hats/hatgui/stained_glass"
     },
     {
       "predicate": { "custom_model_data": 5 },
-      "model": "zigafide/hatgui/diamond_hat"
+      "model": "hats/hatgui/diamond_hat"
     },
     {
       "predicate": { "custom_model_data": 6 },
-      "model": "zigafide/hatgui/cake_hat"
+      "model": "hats/hatgui/cake_hat"
     },
     {
       "predicate": { "custom_model_data": 7 },
-      "model": "zigafide/hatgui/fedora"
+      "model": "hats/hatgui/fedora"
     },
     {
       "predicate": { "custom_model_data": 8 },
-      "model": "zigafide/hatgui/jeb"
+      "model": "hats/hatgui/jeb"
     },
     {
       "predicate": { "custom_model_data": 9 },
-      "model": "zigafide/hatgui/sunglasses"
+      "model": "hats/hatgui/sunglasses"
     },
     {
       "predicate": { "custom_model_data": 10 },
-      "model": "zigafide/hatgui/sombrero"
+      "model": "hats/hatgui/sombrero"
     },
     {
       "predicate": { "custom_model_data": 11 },
-      "model": "zigafide/hatgui/horned_helmet"
+      "model": "hats/hatgui/horned_helmet"
     },
     {
       "predicate": { "custom_model_data": 12 },
-      "model": "zigafide/hatgui/crown"
+      "model": "hats/hatgui/crown"
     },
     {
       "predicate": { "custom_model_data": 13 },
-      "model": "zigafide/hatgui/spartan"
+      "model": "hats/hatgui/spartan"
     },
     {
       "predicate": { "custom_model_data": 14 },
-      "model": "zigafide/hatgui/world"
+      "model": "hats/hatgui/world"
     },
     {
       "predicate": { "custom_model_data": 15 },
-      "model": "zigafide/hatgui/halo"
+      "model": "hats/hatgui/halo"
     },
     {
       "predicate": { "custom_model_data": 16 },
-      "model": "zigafide/hatgui/horns"
+      "model": "hats/hatgui/horns"
     },
     {
       "predicate": { "custom_model_data": 17 },
-      "model": "zigafide/hatgui/catears"
+      "model": "hats/hatgui/catears"
     },
     {
       "predicate": { "custom_model_data": 18 },
-      "model": "zigafide/hatgui/witch"
+      "model": "hats/hatgui/witch"
     },
     {
       "predicate": { "custom_model_data": 19 },
-      "model": "zigafide/hatgui/santa"
+      "model": "hats/hatgui/santa"
     },
     {
       "predicate": { "custom_model_data": 20 },
-      "model": "zigafide/hatgui/christmastree"
+      "model": "hats/hatgui/christmastree"
     },
     {
       "predicate": { "custom_model_data": 21 },
-      "model": "zigafide/hatgui/goldfedora"
+      "model": "hats/hatgui/goldfedora"
     },
     {
       "predicate": { "custom_model_data": 22 },
-      "model": "zigafide/hatgui/newyears"
+      "model": "hats/hatgui/newyears"
     },
     {
       "predicate": { "custom_model_data": 23 },
-      "model": "zigafide/hatgui/baot"
+      "model": "hats/hatgui/baot"
     },
     {
       "predicate": { "custom_model_data": 24 },
-      "model": "zigafide/hatgui/jah"
+      "model": "hats/hatgui/jah"
     },
     {
       "predicate": { "custom_model_data": 25 },
-      "model": "zigafide/hatgui/fez"
+      "model": "hats/hatgui/fez"
     },
     {
       "predicate": { "custom_model_data": 26 },
-      "model": "zigafide/hatgui/slimemagma"
+      "model": "hats/hatgui/slimemagma"
     },
     {
       "predicate": { "custom_model_data": 27 },
-      "model": "zigafide/hatgui/slimenormal"
+      "model": "hats/hatgui/slimenormal"
     },
     {
       "predicate": { "custom_model_data": 28 },
-      "model": "zigafide/hatgui/jebfedora"
+      "model": "hats/hatgui/jebfedora"
+    },
+    {
+      "predicate": { "custom_model_data": 29 },
+      "model": "hats/hatgui/cowboy"
     },
     {
       "predicate": { "custom_model_data": 690 },
-      "model": "zigafide/hatgui/woolcolors/black"
+      "model": "hats/hatgui/woolcolors/black"
     },
     {
       "predicate": { "custom_model_data": 691 },
-      "model": "zigafide/hatgui/woolcolors/blue"
+      "model": "hats/hatgui/woolcolors/blue"
     },
     {
       "predicate": { "custom_model_data": 692 },
-      "model": "zigafide/hatgui/woolcolors/brown"
+      "model": "hats/hatgui/woolcolors/brown"
     },
     {
       "predicate": { "custom_model_data": 693 },
-      "model": "zigafide/hatgui/woolcolors/cyan"
+      "model": "hats/hatgui/woolcolors/cyan"
     },
     {
       "predicate": { "custom_model_data": 694 },
-      "model": "zigafide/hatgui/woolcolors/gray"
+      "model": "hats/hatgui/woolcolors/gray"
     },
     {
       "predicate": { "custom_model_data": 695 },
-      "model": "zigafide/hatgui/woolcolors/green"
+      "model": "hats/hatgui/woolcolors/green"
     },
     {
       "predicate": { "custom_model_data": 696 },
-      "model": "zigafide/hatgui/woolcolors/light_blue"
+      "model": "hats/hatgui/woolcolors/light_blue"
     },
     {
       "predicate": { "custom_model_data": 697 },
-      "model": "zigafide/hatgui/woolcolors/light_gray"
+      "model": "hats/hatgui/woolcolors/light_gray"
     },
     {
       "predicate": { "custom_model_data": 698 },
-      "model": "zigafide/hatgui/woolcolors/lime"
+      "model": "hats/hatgui/woolcolors/lime"
     },
     {
       "predicate": { "custom_model_data": 699 },
-      "model": "zigafide/hatgui/woolcolors/megenta"
+      "model": "hats/hatgui/woolcolors/megenta"
     },
     {
       "predicate": { "custom_model_data": 700 },
-      "model": "zigafide/hatgui/woolcolors/orange"
+      "model": "hats/hatgui/woolcolors/orange"
     },
     {
       "predicate": { "custom_model_data": 701 },
-      "model": "zigafide/hatgui/woolcolors/pink"
+      "model": "hats/hatgui/woolcolors/pink"
     },
     {
       "predicate": { "custom_model_data": 702 },
-      "model": "zigafide/hatgui/woolcolors/purple"
+      "model": "hats/hatgui/woolcolors/purple"
     },
     {
       "predicate": { "custom_model_data": 703 },
-      "model": "zigafide/hatgui/woolcolors/red"
+      "model": "hats/hatgui/woolcolors/red"
     },
     {
       "predicate": { "custom_model_data": 704 },
-      "model": "zigafide/hatgui/woolcolors/white"
+      "model": "hats/hatgui/woolcolors/white"
     },
     {
       "predicate": { "custom_model_data": 705 },
-      "model": "zigafide/hatgui/woolcolors/yellow"
+      "model": "hats/hatgui/woolcolors/yellow"
     },
     {
       "predicate": { "custom_model_data": 800 },
-      "model": "zigafide/hatgui/glasscolors/black"
+      "model": "hats/hatgui/glasscolors/black"
     },
     {
       "predicate": { "custom_model_data": 801 },
-      "model": "zigafide/hatgui/glasscolors/blue"
+      "model": "hats/hatgui/glasscolors/blue"
     },
     {
       "predicate": { "custom_model_data": 802 },
-      "model": "zigafide/hatgui/glasscolors/brown"
+      "model": "hats/hatgui/glasscolors/brown"
     },
     {
       "predicate": { "custom_model_data": 803 },
-      "model": "zigafide/hatgui/glasscolors/cyan"
+      "model": "hats/hatgui/glasscolors/cyan"
     },
     {
       "predicate": { "custom_model_data": 804 },
-      "model": "zigafide/hatgui/glasscolors/glass"
+      "model": "hats/hatgui/glasscolors/glass"
     },
     {
       "predicate": { "custom_model_data": 805 },
-      "model": "zigafide/hatgui/glasscolors/gray"
+      "model": "hats/hatgui/glasscolors/gray"
     },
     {
       "predicate": { "custom_model_data": 806 },
-      "model": "zigafide/hatgui/glasscolors/green"
+      "model": "hats/hatgui/glasscolors/green"
     },
     {
       "predicate": { "custom_model_data": 807 },
-      "model": "zigafide/hatgui/glasscolors/lblue"
+      "model": "hats/hatgui/glasscolors/lblue"
     },
     {
       "predicate": { "custom_model_data": 808 },
-      "model": "zigafide/hatgui/glasscolors/lgray"
+      "model": "hats/hatgui/glasscolors/lgray"
     },
     {
       "predicate": { "custom_model_data": 809 },
-      "model": "zigafide/hatgui/glasscolors/lime_glass"
+      "model": "hats/hatgui/glasscolors/lime_glass"
     },
     {
       "predicate": { "custom_model_data": 810 },
-      "model": "zigafide/hatgui/glasscolors/magenta"
+      "model": "hats/hatgui/glasscolors/magenta"
     },
     {
       "predicate": { "custom_model_data": 811 },
-      "model": "zigafide/hatgui/glasscolors/orange"
+      "model": "hats/hatgui/glasscolors/orange"
     },
     {
       "predicate": { "custom_model_data": 812 },
-      "model": "zigafide/hatgui/glasscolors/pink"
+      "model": "hats/hatgui/glasscolors/pink"
     },
     {
       "predicate": { "custom_model_data": 813 },
-      "model": "zigafide/hatgui/glasscolors/purple"
+      "model": "hats/hatgui/glasscolors/purple"
     },
     {
       "predicate": { "custom_model_data": 814 },
-      "model": "zigafide/hatgui/glasscolors/red"
+      "model": "hats/hatgui/glasscolors/red"
     },
     {
       "predicate": { "custom_model_data": 815 },
-      "model": "zigafide/hatgui/glasscolors/white"
+      "model": "hats/hatgui/glasscolors/white"
     },
     {
       "predicate": { "custom_model_data": 816 },
-      "model": "zigafide/hatgui/glasscolors/yellow"
+      "model": "hats/hatgui/glasscolors/yellow"
     },
     {
       "predicate": { "custom_model_data": 999 },
-      "model": "zigafide/hatgui/anyhat"
+      "model": "hats/hatgui/anyhat"
     }
   ]
 }
