@@ -3,7 +3,7 @@
 	"texture_size": [64, 32],
 	"textures": {
 		"2": "block/lava_still",
-		"3": "zigafide/magmacube",
+		"3": "hats/magmacube",
 		"particle": "block/green_concrete"
 	},
 	"elements": [

@@ -1,8 +1,6 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "item/handheld",
 	"textures": {
-		"0": "hats/hatgui/catears",
-		"particle": "hats/hatgui/catears"
+		"layer0": "hats/hatgui/catears"
 	}
 }

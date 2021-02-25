@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "zigafide/hatgui/dirt_hat"
+		"layer0": "hats/hatgui/dirt_hat"
 	}
 }

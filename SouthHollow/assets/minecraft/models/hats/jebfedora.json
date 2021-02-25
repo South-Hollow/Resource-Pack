@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "zigafide/jeb_wool",
+		"1": "hats/jeb_wool",
 		"grey": "block/light_gray_wool",
-		"particle": "zigafide/jeb_wool"
+		"particle": "hats/jeb_wool"
 	},
 	"elements": [
 		{

@@ -6,6 +6,10 @@
 
   "overrides": [
     {
+      "predicate": { "custom_model_data": 0 },
+      "model": "trkits/crossbow"
+    },
+    {
       "predicate": { "custom_model_data": 1 },
       "model": "trkits/revolver"
     }

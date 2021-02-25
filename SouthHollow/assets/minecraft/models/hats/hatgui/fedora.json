@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "zigafide/hatgui/fedora"
+		"layer0": "hats/hatgui/fedora"
 	}
 }

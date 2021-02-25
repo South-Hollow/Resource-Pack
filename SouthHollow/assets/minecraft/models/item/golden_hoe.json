@@ -122,6 +122,18 @@
       "model": "hats/hatgui/cowboy"
     },
     {
+      "predicate": { "custom_model_data": 30 },
+      "model": "hats/hatgui/straw_hat"
+    },
+    {
+      "predicate": { "custom_model_data": 31 },
+      "model": "hats/hatgui/fez"
+    },
+    {
+      "predicate": { "custom_model_data": 32 },
+      "model": "hats/hatgui/goz"
+    },
+    {
       "predicate": { "custom_model_data": 690 },
       "model": "hats/hatgui/woolcolors/black"
     },

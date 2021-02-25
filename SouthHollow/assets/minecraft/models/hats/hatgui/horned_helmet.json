@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "zigafide/hatgui/horned_helmet"
+		"layer0": "hats/hatgui/horned_helmet"
 	}
 }

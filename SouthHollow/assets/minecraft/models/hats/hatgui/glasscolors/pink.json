@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "zigafide/hatgui/glasscolors/pink"
+		"layer0": "hats/hatgui/glasscolors/pink"
 	}
 }

@@ -126,6 +126,14 @@
       "model": "hats/strawhat"
     },
     {
+      "predicate": { "custom_model_data": 31 },
+      "model": "hats/jeb_fez"
+    },
+    {
+      "predicate": { "custom_model_data": 32 },
+      "model": "hats/gold_fez"
+    },
+    {
       "predicate": { "custom_model_data": 690 },
       "model": "hats/wool/black"
     },

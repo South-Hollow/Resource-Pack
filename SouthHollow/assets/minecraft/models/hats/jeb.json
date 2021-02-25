@@ -1,20 +1,21 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"black": "zigafide/jeb_wool",
-		"grey": "block/gray_wool"
+		"1": "hats/jeb_wool",
+		"grey": "block/gray_wool",
+		"particle": "hats/jeb_wool"
 	},
 	"elements": [
 		{
 			"from": [-1, 14, -1],
 			"to": [17, 15, 17],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 1], "texture": "#black", "cullface": "north"},
-				"east": {"uv": [0, 0, 16, 1], "texture": "#black", "cullface": "east"},
-				"south": {"uv": [0, 0, 16, 1], "texture": "#black", "cullface": "south"},
-				"west": {"uv": [0, 0, 16, 1], "texture": "#black", "cullface": "west"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#black", "cullface": "up"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#black", "cullface": "down"}
+				"north": {"uv": [0, 0, 16, 1], "texture": "#1", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 1], "texture": "#1", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 1], "texture": "#1", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 1], "texture": "#1", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1", "cullface": "down"}
 			}
 		},
 		{
@@ -31,11 +32,12 @@
 			"from": [2, 17, 2],
 			"to": [14, 31, 14],
 			"faces": {
-				"north": {"uv": [0, 0, 12, 14], "texture": "#black", "cullface": "north"},
-				"east": {"uv": [0, 0, 12, 14], "texture": "#black", "cullface": "east"},
-				"south": {"uv": [0, 0, 12, 14], "texture": "#black", "cullface": "south"},
-				"west": {"uv": [0, 0, 12, 14], "texture": "#black", "cullface": "west"},
-				"up": {"uv": [0, 0, 12, 12], "texture": "#black", "cullface": "up"}
+				"north": {"uv": [0, 0, 12, 14], "texture": "#1", "cullface": "north"},
+				"east": {"uv": [0, 0, 12, 14], "texture": "#1", "cullface": "east"},
+				"south": {"uv": [0, 0, 12, 14], "texture": "#1", "cullface": "south"},
+				"west": {"uv": [0, 0, 12, 14], "texture": "#1", "cullface": "west"},
+				"up": {"uv": [0, 0, 12, 12], "texture": "#1", "cullface": "up"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#1"}
 			}
 		}
 	]
