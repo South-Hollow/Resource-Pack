@@ -10,8 +10,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:emoji/shlogo.png",
-            "ascent": 32,
-            "height": 100,
+            "ascent": 40,
+            "height": 90,
             "chars": ["섏섐","섑섒"]
         },
 

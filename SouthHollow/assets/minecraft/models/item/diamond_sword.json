@@ -1,0 +1,17 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/diamond_sword"
+  },
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 0 },
+      "model": "tools/diamond_sword"
+    },
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "admin/gauntlet"
+    }
+  ]
+}

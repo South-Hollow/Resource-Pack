@@ -6,6 +6,10 @@
 
   "overrides": [
     {
+      "predicate": { "custom_model_data": 0 },
+      "model": "tools/iron_hoe"
+    },
+    {
       "predicate": { "custom_model_data": 1 },
       "model": "hats/dirt_hat"
     },
@@ -132,6 +136,38 @@
     {
       "predicate": { "custom_model_data": 32 },
       "model": "hats/gold_fez"
+    },
+    {
+      "predicate": { "custom_model_data": 33 },
+      "model": "hats/fries"
+    },
+    {
+      "predicate": { "custom_model_data": 34 },
+      "model": "hats/3dglasses"
+    },
+    {
+      "predicate": { "custom_model_data": 35 },
+      "model": "hats/antenna"
+    },
+    {
+      "predicate": { "custom_model_data": 36 },
+      "model": "trkits/axolotlhead"
+    },
+    {
+      "predicate": { "custom_model_data": 37 },
+      "model": "trkits/blazehead"
+    },
+    {
+      "predicate": { "custom_model_data": 38 },
+      "model": "trkits/hood"
+    },
+    {
+      "predicate": { "custom_model_data": 39 },
+      "model": "hats/lumberjack"
+    },
+    {
+      "predicate": { "custom_model_data": 40 },
+      "model": "trkits/gasmask"
     },
     {
       "predicate": { "custom_model_data": 690 },

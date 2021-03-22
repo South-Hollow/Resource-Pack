@@ -1,0 +1,21 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/iron_shovel"
+  },
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 0 },
+      "model": "tools/iron_shovel"
+    },
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "trkits/axolotltail"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "tools/iron_axe"
+    }
+  ]
+}

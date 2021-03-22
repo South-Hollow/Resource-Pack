@@ -6,6 +6,10 @@
 
   "overrides": [
     {
+      "predicate": { "custom_model_data": 0 },
+      "model": "tools/golden_hoe"
+    },
+    {
       "predicate": { "custom_model_data": 1 },
       "model": "hats/hatgui/dirt_hat"
     },
@@ -132,6 +136,18 @@
     {
       "predicate": { "custom_model_data": 32 },
       "model": "hats/hatgui/goz"
+    },
+    {
+      "predicate": { "custom_model_data": 33 },
+      "model": "hats/hatgui/fries"
+    },
+    {
+      "predicate": { "custom_model_data": 34 },
+      "model": "hats/hatgui/3dglasses"
+    },
+    {
+      "predicate": { "custom_model_data": 35 },
+      "model": "hats/hatgui/antenna"
     },
     {
       "predicate": { "custom_model_data": 690 },

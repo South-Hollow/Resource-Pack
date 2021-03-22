@@ -1,0 +1,17 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/stone_sword"
+  },
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 0 },
+      "model": "tools/stone_sword"
+    },
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "trkits/lightsaber"
+    }
+  ]
+}
