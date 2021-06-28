@@ -151,23 +151,47 @@
     },
     {
       "predicate": { "custom_model_data": 36 },
-      "model": "trkits/axolotlhead"
-    },
-    {
-      "predicate": { "custom_model_data": 37 },
-      "model": "trkits/blazehead"
-    },
-    {
-      "predicate": { "custom_model_data": 38 },
-      "model": "trkits/hood"
-    },
-    {
-      "predicate": { "custom_model_data": 39 },
       "model": "hats/lumberjack"
     },
     {
-      "predicate": { "custom_model_data": 40 },
+      "predicate": { "custom_model_data": 37 },
       "model": "trkits/gasmask"
+    },
+    {
+      "predicate": { "custom_model_data": 38 },
+      "model": "hats/bigboot"
+    },
+    {
+      "predicate": { "custom_model_data": 39 },
+      "model": "hats/arrow"
+    },
+    {
+      "predicate": { "custom_model_data": 40 },
+      "model": "hats/soldier"
+    },
+    {
+      "predicate": { "custom_model_data": 420 },
+      "model": "hats/axolotl/pinkaxolotl"
+    },
+    {
+      "predicate": { "custom_model_data": 421 },
+      "model": "hats/axolotl/cyanaxolotl"
+    },
+    {
+      "predicate": { "custom_model_data": 422 },
+      "model": "hats/axolotl/goldaxolotl"
+    },
+    {
+      "predicate": { "custom_model_data": 423 },
+      "model": "hats/axolotl/blueaxolotl"
+    },
+    {
+      "predicate": { "custom_model_data": 424 },
+      "model": "hats/axolotl/wildaxolotl"
+    },
+    {
+      "predicate": { "custom_model_data": 425 },
+      "model": "hats/axolotl/jahxolotl"
     },
     {
       "predicate": { "custom_model_data": 690 },

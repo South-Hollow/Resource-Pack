@@ -12,6 +12,10 @@
     {
       "predicate": { "custom_model_data": 1 },
       "model": "trkits/revolver"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "trkits/m1garand"
     }
   ]
 }

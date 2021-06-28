@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "hats/jeb_wool",
-		"grey": "block/light_gray_wool",
-		"particle": "hats/jeb_wool"
+		"particle": "hats/jeb_wool",
+		"grey": "block/light_gray_wool"
 	},
 	"elements": [
 		{
@@ -40,5 +40,33 @@
 				"down": {"uv": [0, 0, 12, 7], "texture": "#1", "cullface": "up"}
 			}
 		}
-	]
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -3, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, -3, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, -6.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [20, 20, 0],
+			"translation": [0, -5.5, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"fixed": {
+			"translation": [0, -8.75, 0]
+		}
+	}
 }

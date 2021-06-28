@@ -150,6 +150,46 @@
       "model": "hats/hatgui/antenna"
     },
     {
+      "predicate": { "custom_model_data": 36 },
+      "model": "hats/hatgui/lumberjack"
+    },
+    {
+      "predicate": { "custom_model_data": 37 },
+      "model": "hats/hatgui/gasmask"
+    },
+    {
+      "predicate": { "custom_model_data": 38 },
+      "model": "hats/hatgui/bigboot"
+    },
+    {
+      "predicate": { "custom_model_data": 39 },
+      "model": "hats/hatgui/arrow"
+    },
+    {
+      "predicate": { "custom_model_data": 420 },
+      "model": "hats/hatgui/axolotl/pinkaxolotl"
+    },
+    {
+      "predicate": { "custom_model_data": 421 },
+      "model": "hats/hatgui/axolotl/cyanaxolotl"
+    },
+    {
+      "predicate": { "custom_model_data": 422 },
+      "model": "hats/hatgui/axolotl/goldaxolotl"
+    },
+    {
+      "predicate": { "custom_model_data": 423 },
+      "model": "hats/hatgui/axolotl/blueaxolotl"
+    },
+    {
+      "predicate": { "custom_model_data": 424 },
+      "model": "hats/hatgui/axolotl/wildaxolotl"
+    },
+    {
+      "predicate": { "custom_model_data": 425 },
+      "model": "hats/hatgui/axolotl/jahxolotl"
+    },
+    {
       "predicate": { "custom_model_data": 690 },
       "model": "hats/hatgui/woolcolors/black"
     },

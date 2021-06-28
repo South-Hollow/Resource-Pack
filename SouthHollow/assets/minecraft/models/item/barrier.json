@@ -1,0 +1,17 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/barrier"
+  },
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 0 },
+      "model": "tools/barrier"
+    },
+        {
+      "predicate": { "custom_model_data": 1 },
+      "model": "gui/sh/xmark"
+    }
+  ]
+}
