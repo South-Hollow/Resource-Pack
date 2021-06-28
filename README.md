@@ -1,6 +1,12 @@
 # SouthHollow Network Resource Pack
 The resource pack that gets applied to all players when they join the SouthHollow network.
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/South-Hollow/Resource-Pack?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/South-Hollow/Resource-Pack?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/South-Hollow/Resource-Pack?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/South-Hollow/Resource-Pack?style=flat-square)
+
+
 ## Releases
 All releases can be found in the [releases page](https://github.com/South-Hollow/Resource-Pack/releases), along with a specfic changelog. The zip file attachment will be for the currently most-supported version at that time. For simplicity sake, please access the branch of the pack version you'd like to see instead of trying to download it off the releases page.
 
