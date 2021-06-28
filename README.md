@@ -24,12 +24,12 @@ packs:
     restricted: false
     permission: [ REDACTED ]
     variants:
-    - url: https://github.com/South-Hollow/Resource-Pack/raw/ver/1.16.5/SouthHollow.zip
+    - url: https://github.com/South-Hollow/Resource-Pack/raw/main/SouthHollow.zip
       hash: [ REDACTED ]
       version: '1.16'
       restricted: false
       permission: [ REDACTED ]
-    - url: https://github.com/South-Hollow/Resource-Pack/raw/ver/1.17/SouthHollow.zip
+    - url: https://github.com/South-Hollow/Resource-Pack/raw/main/SouthHollow.zip
       hash: [ REDACTED ]
       version: '1.17'
       restricted: false
