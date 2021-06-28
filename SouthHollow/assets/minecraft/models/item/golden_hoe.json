@@ -166,6 +166,10 @@
       "model": "hats/hatgui/arrow"
     },
     {
+      "predicate": { "custom_model_data": 40 },
+      "model": "hats/hatgui/soldier"
+    },
+    {
       "predicate": { "custom_model_data": 420 },
       "model": "hats/hatgui/axolotl/pinkaxolotl"
     },
