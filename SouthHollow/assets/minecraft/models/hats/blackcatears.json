@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/orange_wool",
-		"1": "hats/jah_wool",
-		"particle": "block/orange_wool"
+		"0": "block/black_wool",
+		"1": "block/gray_wool",
+		"particle": "block/black_wool"
 	},
 	"elements": [
 		{
