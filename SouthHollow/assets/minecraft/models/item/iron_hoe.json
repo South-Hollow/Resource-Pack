@@ -186,6 +186,10 @@
       "model": "hats/browncatears"
     },
     {
+      "predicate": { "custom_model_data": 45 },
+      "model": "hats/rods"
+    },
+    {
       "predicate": { "custom_model_data": 420 },
       "model": "hats/axolotl/pinkaxolotl"
     },
@@ -208,6 +212,66 @@
     {
       "predicate": { "custom_model_data": 425 },
       "model": "hats/axolotl/jahxolotl"
+    },
+    {
+      "predicate": { "custom_model_data": 426 },
+      "model": "hats/fezcolors/blackfez"
+    },
+    {
+      "predicate": { "custom_model_data": 427 },
+      "model": "hats/fezcolors/bluefez"
+    },
+    {
+      "predicate": { "custom_model_data": 428 },
+      "model": "hats/fezcolors/brownfez"
+    },
+    {
+      "predicate": { "custom_model_data": 429 },
+      "model": "hats/fezcolors/cyanfez"
+    },
+    {
+      "predicate": { "custom_model_data": 430 },
+      "model": "hats/fezcolors/grayfez"
+    },
+    {
+      "predicate": { "custom_model_data": 431 },
+      "model": "hats/fezcolors/greenfez"
+    },
+    {
+      "predicate": { "custom_model_data": 432 },
+      "model": "hats/fezcolors/lightbluefez"
+    },
+    {
+      "predicate": { "custom_model_data": 433 },
+      "model": "hats/fezcolors/lightgrayfez"
+    },
+    {
+      "predicate": { "custom_model_data": 434 },
+      "model": "hats/fezcolors/limefez"
+    },
+    {
+      "predicate": { "custom_model_data": 435 },
+      "model": "hats/fezcolors/magentafez"
+    },
+    {
+      "predicate": { "custom_model_data": 436 },
+      "model": "hats/fezcolors/orangefez"
+    },
+    {
+      "predicate": { "custom_model_data": 437 },
+      "model": "hats/fezcolors/pinkfez"
+    },
+    {
+      "predicate": { "custom_model_data": 438 },
+      "model": "hats/fezcolors/purplefez"
+    },
+    {
+      "predicate": { "custom_model_data": 439 },
+      "model": "hats/fezcolors/whitefez"
+    },
+    {
+      "predicate": { "custom_model_data": 440 },
+      "model": "hats/fezcolors/yellowfez"
     },
     {
       "predicate": { "custom_model_data": 690 },
