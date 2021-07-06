@@ -147,7 +147,7 @@
     },
     {
       "predicate": { "custom_model_data": 35 },
-      "model": "hats/hatgui/antenna"
+      "model": "hats/hatgui/anyhat"
     },
     {
       "predicate": { "custom_model_data": 36 },
@@ -168,6 +168,10 @@
     {
       "predicate": { "custom_model_data": 40 },
       "model": "hats/hatgui/soldier"
+    },
+    {
+      "predicate": { "custom_model_data": 41 },
+      "model": "hats/hatgui/anyhat"
     },
     {
       "predicate": { "custom_model_data": 420 },
@@ -192,6 +196,10 @@
     {
       "predicate": { "custom_model_data": 425 },
       "model": "hats/hatgui/axolotl/jahxolotl"
+    },
+    {
+      "predicate": { "custom_model_data": 426 },
+      "model": "hats/hatgui/anyhat"
     },
     {
       "predicate": { "custom_model_data": 690 },
