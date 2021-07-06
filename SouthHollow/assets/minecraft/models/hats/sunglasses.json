@@ -69,8 +69,8 @@
 			}
 		},
 		{
-			"from": [10, 6, 0],
-			"to": [15, 8, 1],
+			"from": [10, 5, 0.25],
+			"to": [15, 8, 0.75],
 			"rotation": {"angle": 0, "axis": "y", "origin": [5, 10, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 1, 1], "texture": "#1"},
@@ -82,35 +82,9 @@
 			}
 		},
 		{
-			"from": [1, 6, 0],
-			"to": [6, 8, 1],
+			"from": [1, 5, 0.25],
+			"to": [6, 8, 0.75],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-4, 10, 8]},
-			"faces": {
-				"north": {"uv": [0, 0, 1, 1], "texture": "#1"},
-				"east": {"uv": [0, 0, 1, 1], "texture": "#1"},
-				"south": {"uv": [0, 0, 1, 1], "texture": "#1"},
-				"west": {"uv": [0, 0, 1, 1], "texture": "#1"},
-				"up": {"uv": [0, 0, 1, 1], "texture": "#1"},
-				"down": {"uv": [0, 0, 1, 1], "texture": "#1"}
-			}
-		},
-		{
-			"from": [2, 5, 0],
-			"to": [5, 6, 1],
-			"rotation": {"angle": 0, "axis": "y", "origin": [-3, 10, 8]},
-			"faces": {
-				"north": {"uv": [0, 0, 1, 1], "texture": "#1"},
-				"east": {"uv": [0, 0, 1, 1], "texture": "#1"},
-				"south": {"uv": [0, 0, 1, 1], "texture": "#1"},
-				"west": {"uv": [0, 0, 1, 1], "texture": "#1"},
-				"up": {"uv": [0, 0, 1, 1], "texture": "#1"},
-				"down": {"uv": [0, 0, 1, 1], "texture": "#1"}
-			}
-		},
-		{
-			"from": [11, 5, 0],
-			"to": [14, 6, 1],
-			"rotation": {"angle": 0, "axis": "y", "origin": [6, 10, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 1, 1], "texture": "#1"},
 				"east": {"uv": [0, 0, 1, 1], "texture": "#1"},
@@ -207,7 +181,7 @@
 			}
 		},
 		{
-			"from": [14, 8, 1],
+			"from": [15, 8, 1],
 			"to": [16, 9, 13],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, -3]},
 			"faces": {
@@ -221,7 +195,7 @@
 		},
 		{
 			"from": [0, 8, 1],
-			"to": [2, 9, 13],
+			"to": [1, 9, 13],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-6, 8, -3]},
 			"faces": {
 				"north": {"uv": [0, 0, 1, 1], "texture": "#0"},
@@ -256,6 +230,9 @@
 			"rotation": [20, -156, 0],
 			"translation": [0, 1.5, 0],
 			"scale": [0.75, 0.75, 0.75]
+		},
+		"head": {
+			"scale": [0.91, 1, 1]
 		},
 		"fixed": {
 			"translation": [0, 0.75, 5.75]
