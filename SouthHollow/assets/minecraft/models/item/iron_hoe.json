@@ -190,6 +190,10 @@
       "model": "hats/rods"
     },
     {
+      "predicate": { "custom_model_data": 46 },
+      "model": "hats/diamond_fedora"
+    },
+    {
       "predicate": { "custom_model_data": 420 },
       "model": "hats/axolotl/pinkaxolotl"
     },
