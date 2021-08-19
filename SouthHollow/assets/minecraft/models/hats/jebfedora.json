@@ -8,7 +8,7 @@
 	"elements": [
 		{
 			"from": [-1, 14, -1],
-			"to": [17, 15, 17],
+			"to": [17, 15.21, 17],
 			"faces": {
 				"north": {"uv": [0, 0, 16, 1], "texture": "#1", "cullface": "north"},
 				"east": {"uv": [0, 0, 16, 1], "texture": "#1", "cullface": "north"},
