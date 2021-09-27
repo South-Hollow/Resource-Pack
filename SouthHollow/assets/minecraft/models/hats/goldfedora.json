@@ -6,7 +6,7 @@
 	"elements": [
 		{
 			"from": [-1, 14, -1],
-			"to": [17, 16, 17],
+			"to": [17, 15.21, 17],
 			"faces": {
 				"north": {"uv": [0, 8, 16, 12], "texture": "#3", "cullface": "north"},
 				"east": {"uv": [0, 8, 16, 12], "texture": "#3", "cullface": "north"},
@@ -17,7 +17,7 @@
 			}
 		},
 		{
-			"from": [2, 16, 2],
+			"from": [2, 15.2, 2],
 			"to": [14, 22, 14],
 			"faces": {
 				"north": {"uv": [0, 0, 16, 7], "texture": "#3", "cullface": "north"},
