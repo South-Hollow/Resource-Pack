@@ -194,6 +194,10 @@
       "model": "hats/diamond_fedora"
     },
     {
+      "predicate": { "custom_model_data": 47 },
+      "model": "hats/pumpkin"
+    }
+    {
       "predicate": { "custom_model_data": 69 },
       "model": "hats/trafficcone"
     },
