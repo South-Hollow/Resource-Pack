@@ -239,8 +239,8 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {
-			"rotation": [16, 43, 0],
-			"translation": [0, -12.75, 0]
+			"rotation": [18, 43, 0],
+			"translation": [0, -12.5, 0]
 		},
 		"fixed": {
 			"translation": [0, -14, 0]

@@ -1845,9 +1845,9 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {
-			"rotation": [20, -40, 0],
-			"translation": [0, -5, 0],
-			"scale": [0.5, 0.5, 0.5]
+			"rotation": [18, -43, 0],
+			"translation": [0.75, -7.5, 0],
+			"scale": [0.7, 0.7, 0.7]
 		},
 		"fixed": {
 			"translation": [1, -6.5, 0],

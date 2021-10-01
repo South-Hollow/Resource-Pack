@@ -2275,8 +2275,8 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {
-			"rotation": [14, 31, 0],
-			"translation": [0, -10, 0],
+			"rotation": [18, -150, 0],
+			"translation": [0, -9.75, 0],
 			"scale": [0.75, 0.75, 0.75]
 		},
 		"fixed": {

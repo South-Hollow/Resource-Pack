@@ -885,9 +885,9 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"gui": {
-			"rotation": [20, -165, 0],
-			"translation": [0, -5.5, 0],
-			"scale": [0.5, 0.5, 0.5]
+			"rotation": [17.5, -150, 0],
+			"translation": [0, -8, 0],
+			"scale": [0.65, 0.65, 0.65]
 		},
 		"fixed": {
 			"translation": [0, -12.25, 0]
