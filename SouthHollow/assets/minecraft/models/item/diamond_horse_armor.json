@@ -1,0 +1,17 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/diamon_horse_armor"
+  },
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 0 },
+      "model": "tools/diamond_horse_armor"
+    },
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "wargames/diamond_horse_armor"
+    }
+  ]
+}
