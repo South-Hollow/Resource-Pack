@@ -1,9 +1,17 @@
 {
-    "menu.returnToGame":"§aReturn to SouthHollow",
-    "menu.disconnect":"§cSee You Soon",
+    "menu.returnToGame":"§7» §aReturn to SouthHollow §7«",
     "menu.game":"섏⻔섐",
     "multiplayer.downloadingTerrain":"",
     "item.dyed":"§8CUSTOM ITEM",
     "mount.onboard":"§7Press §rꢕ §7To Exit",
     "container.inventory":"",
-    "connect.joining":""}
+    "commands.save.saving": "§c» §7Saving game data...",
+    "commands.save.success": "§c» §aSaved the game!",
+    "resourcePack.title": "Select Resource Packs",
+    "resourcePack.server.name": "§aSouthHollow Custom Content",
+    "debug.prefix": "§c»",
+    "debug.chunk_boundaries.on": "§7Chunk borders §aenabled§7. Press §3F3§7+§3G §7to disable.",
+    "debug.chunk_boundaries.off": "§7Chunk borders §cdisabled§7. Press §3F3§7+§3G §7to enable.",
+    "language.name": "§aEnglish §8- §7SouthHollow Edition",
+    "connect.joining":""
+}

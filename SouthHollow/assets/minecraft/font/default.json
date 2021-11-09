@@ -2,22 +2,35 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/shlogo.png",
+            "file": "southhollow:branding/shlogo.png",
             "ascent": 15,
             "height": 60,
             "chars": ["셚셙","션셗"]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:emoji/shlogo.png",
+            "file": "southhollow:branding/shlogo.png",
             "ascent": 42,
             "height": 90,
             "chars": ["섏섐","섑섒"]
         },
+        {
+            "type": "bitmap",
+            "file": "southhollow:countries/town.png",
+            "ascent": 42,
+            "height": 40,
+            "chars": ["섟","섯"]
+        },
+        {
+            "type": "bitmap",
+            "file": "southhollow:countries/town.png",
+            "ascent": 5,
+            "height": 15,
+            "chars": ["\uE003"]
+        },
 
-        {"type": "bitmap","file": "minecraft:emoji/shlogo.png","ascent": 5,"height": 60,"chars": ["⻈⻉","섑섒"]},
-        {"type": "bitmap","file": "minecraft:emoji/mvlogo.png","ascent": 15,"height": 40,"chars": ["\u2EC7"]},
-        {"type": "bitmap","file": "minecraft:emoji/space.png","ascent": -32000,"height": -3,"chars": ["⻔"]}
+        {"type": "bitmap","file": "southhollow:branding/shlogo.png","ascent": 5,"height": 60,"chars": ["⻈⻉","섑섒"]},
+        {"type": "bitmap","file": "southhollow:utils/space.png","ascent": -32000,"height": -3,"chars": ["⻔"]}
 
     ]
 }
