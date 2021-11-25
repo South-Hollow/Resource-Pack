@@ -202,6 +202,10 @@
       "model": "hats/mummy"
     },
     {
+      "predicate": { "custom_model_data": 49 },
+      "model": "hats/thanksgiving"
+    },
+    {
       "predicate": { "custom_model_data": 69 },
       "model": "hats/trafficcone"
     },
