@@ -206,6 +206,10 @@
       "model": "hats/thanksgiving"
     },
     {
+      "predicate": { "custom_model_data": 50 },
+      "model": "hats/snowman"
+    },
+    {
       "predicate": { "custom_model_data": 69 },
       "model": "hats/trafficcone"
     },
