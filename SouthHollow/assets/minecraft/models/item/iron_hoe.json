@@ -210,6 +210,18 @@
       "model": "hats/snowman"
     },
     {
+      "predicate": { "custom_model_data": 51 },
+      "model": "hats/santanew"
+    },
+    {
+      "predicate": { "custom_model_data": 52 },
+      "model": "hats/presents"
+    },
+    {
+      "predicate": { "custom_model_data": 53 },
+      "model": "hats/carrothat"
+    },
+    {
       "predicate": { "custom_model_data": 69 },
       "model": "hats/trafficcone"
     },
