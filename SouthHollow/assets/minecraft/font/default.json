@@ -28,9 +28,84 @@
             "height": 15,
             "chars": ["\uE003"]
         },
-
-        {"type": "bitmap","file": "southhollow:branding/shlogo.png","ascent": 5,"height": 60,"chars": ["⻈⻉","섑섒"]},
-        {"type": "bitmap","file": "southhollow:utils/space.png","ascent": -32000,"height": -3,"chars": ["⻔"]}
+        {
+            "type": "bitmap",
+            "file": "southhollow:hideandseek/mappreview/farm.png",
+            "ascent": 10,
+            "height": 30,
+            "chars": ["\uE004\uE005", "\uE006\uE007"],
+            "copy1": "",
+            "copy2": ""
+        },
+        {
+            "type": "bitmap",
+            "file": "southhollow:hideandseek/mappreview/countryhouse.png",
+            "ascent": 10,
+            "height": 30,
+            "chars": ["\uE008\uE009", "\uE010\uE011"],
+            "copy1": "",
+            "copy2": ""
+        },
+        {
+            "type": "bitmap",
+            "file": "southhollow:hideandseek/mappreview/warehouse.png",
+            "ascent": 10,
+            "height": 30,
+            "chars": ["\uE012\uE013", "\uE014\uE015"],
+            "copy1": "",
+            "copy2": ""
+        },
+        {
+            "type": "bitmap",
+            "file": "southhollow:hideandseek/mappreview/mineshaft.png",
+            "ascent": 10,
+            "height": 30,
+            "chars": ["\uE016\uE017", "\uE018\uE019"],
+            "copy1": "",
+            "copy2": ""
+        },
+        {
+            "type": "bitmap",
+            "file": "southhollow:hideandseek/mappreview/woolbomb.png",
+            "ascent": 10,
+            "height": 30,
+            "chars": ["\uE020\uE021", "\uE022\uE023"],
+            "copy1": "",
+            "copy2": ""
+        },
+        {
+            "type": "bitmap",
+            "file": "southhollow:hideandseek/mappreview/woolbomb.png",
+            "ascent": 10,
+            "height": 30,
+            "chars": ["\uE024\uE025", "\uE026\uE027"],
+            "copy1": "",
+            "copy2": ""
+        },
+        {
+            "type": "bitmap",
+            "file": "southhollow:hideandseek/branding/shlogo.png",
+            "ascent": 5,
+            "height": 60,
+            "chars": ["⻈⻉","섑섒"]
+        },
+        {
+            "type": "bitmap","file": "southhollow:utils/space.png",
+            "ascent": -32000,
+            "height": -3,
+            "chars": ["\u2ED4"],
+            "copy1": "⻔",
+            "comment": "Fixes the spacing issue with most images."
+        }
+        ,
+        {
+            "type": "bitmap","file": "southhollow:utils/space.png",
+            "ascent": -32000,
+            "height": -4,
+            "chars": ["\ue000"],
+            "copy1": "",
+            "comment": "Fixes the spacing issue with HAS images."
+        }
 
     ]
 }
