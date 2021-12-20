@@ -75,7 +75,7 @@
         },
         {
             "type": "bitmap",
-            "file": "southhollow:hideandseek/mappreview/woolbomb.png",
+            "file": "southhollow:hideandseek/mappreview/circus.png",
             "ascent": 10,
             "height": 30,
             "chars": ["\uE024\uE025", "\uE026\uE027"],
