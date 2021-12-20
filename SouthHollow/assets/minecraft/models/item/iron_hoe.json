@@ -225,6 +225,26 @@
       "predicate": { "custom_model_data": 69 },
       "model": "hats/trafficcone"
     },
+	{
+	  "predicate": { "custom_model_data": 70},
+	  "model": "hats/parrot/redparrot"
+	},
+	{
+	  "predicate": { "custom_model_data": 71},
+	  "model": "hats/parrot/blueparrot"
+	},
+	{
+	  "predicate": { "custom_model_data": 72},
+	  "model": "hats/parrot/greenparrot"
+	},
+	{
+	  "predicate": { "custom_model_data": 73},
+	  "model": "hats/parrot/yellowparrot"
+	},
+	{
+	  "predicate": { "custom_model_data": 74},
+	  "model": "hats/parrot/greyparrot"
+	},
     {
       "predicate": { "custom_model_data": 420 },
       "model": "hats/axolotl/pinkaxolotl"
