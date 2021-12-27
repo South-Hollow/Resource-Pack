@@ -47,7 +47,7 @@
     },
     {
       "predicate": { "custom_model_data": 10 },
-      "model": "hats/sombrero"
+      "model": "hats/sombrerold"
     },
     {
       "predicate": { "custom_model_data": 11 },
@@ -220,6 +220,22 @@
     {
       "predicate": { "custom_model_data": 53 },
       "model": "hats/carrothat"
+    },
+    {
+      "predicate": { "custom_model_data": 54 },
+      "model": "hats/police"
+    },
+    {
+      "predicate": { "custom_model_data": 55 },
+      "model": "hats/hardhat"
+    },
+    {
+      "predicate": { "custom_model_data": 56 },
+      "model": "hats/bee"
+    },
+    {
+      "predicate": { "custom_model_data": 57 },
+      "model": "hats/angrybee"
     },
     {
       "predicate": { "custom_model_data": 69 },
