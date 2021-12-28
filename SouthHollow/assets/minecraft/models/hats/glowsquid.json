@@ -222,8 +222,8 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"head": {
-			"translation": [0, 10.75, 0],
-			"scale": [0.81, 0.8, 0.91]
+			"translation": [0, 11.5, 0],
+			"scale": [0.87, 0.87, 0.97]
 		},
 		"fixed": {
 			"translation": [0, 0.5, -0.25],
