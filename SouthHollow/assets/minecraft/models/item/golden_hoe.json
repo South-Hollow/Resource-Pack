@@ -238,6 +238,10 @@
       "model": "hats/angrybee"
     },
     {
+      "predicate": { "custom_model_data": 57 },
+      "model": "hats/2022"
+    },
+    {
       "predicate": { "custom_model_data": 69 },
       "model": "hats/trafficcone"
     },
