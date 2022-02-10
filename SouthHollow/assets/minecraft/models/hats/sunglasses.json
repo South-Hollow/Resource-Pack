@@ -44,19 +44,6 @@
 			}
 		},
 		{
-			"name": "lb.cube",
-			"from": [14, 5, 0],
-			"to": [15, 6, 1],
-			"faces": {
-				"north": {"uv": [0, 0, 1, 1], "texture": "#0"},
-				"east": {"uv": [0, 0, 1, 1], "texture": "#0"},
-				"south": {"uv": [0, 0, 1, 1], "texture": "#0"},
-				"west": {"uv": [0, 0, 1, 1], "texture": "#0"},
-				"up": {"uv": [0, 0, 1, 1], "texture": "#0"},
-				"down": {"uv": [0, 0, 1, 1], "texture": "#0"}
-			}
-		},
-		{
 			"from": [11, 4, 0],
 			"to": [14, 5, 1],
 			"rotation": {"angle": 0, "axis": "y", "origin": [6, 8, 8]},
@@ -110,19 +97,6 @@
 			}
 		},
 		{
-			"name": "rb.cube",
-			"from": [1, 5, 0],
-			"to": [2, 6, 1],
-			"faces": {
-				"north": {"uv": [0, 0, 1, 1], "texture": "#0"},
-				"east": {"uv": [0, 0, 1, 1], "texture": "#0"},
-				"south": {"uv": [0, 0, 1, 1], "texture": "#0"},
-				"west": {"uv": [0, 0, 1, 1], "texture": "#0"},
-				"up": {"uv": [0, 0, 1, 1], "texture": "#0"},
-				"down": {"uv": [0, 0, 1, 1], "texture": "#0"}
-			}
-		},
-		{
 			"from": [2, 4, 0],
 			"to": [5, 5, 1],
 			"rotation": {"angle": 0, "axis": "y", "origin": [6, 8, 8]},
@@ -150,36 +124,10 @@
 			}
 		},
 		{
-			"name": "lm.cube",
-			"from": [10, 5, 0],
-			"to": [11, 6, 1],
-			"faces": {
-				"north": {"uv": [0, 0, 1, 1], "texture": "#0"},
-				"east": {"uv": [0, 0, 1, 1], "texture": "#0"},
-				"south": {"uv": [0, 0, 1, 1], "texture": "#0"},
-				"west": {"uv": [0, 0, 1, 1], "texture": "#0"},
-				"up": {"uv": [0, 0, 1, 1], "texture": "#0"},
-				"down": {"uv": [0, 0, 1, 1], "texture": "#0"}
-			}
-		},
-		{
 			"name": "rm.angle",
 			"from": [8.75, 4.20711, 0],
 			"to": [11.5, 5.20711, 1],
 			"rotation": {"angle": -45, "axis": "z", "origin": [11, 4.70711, 0.5]},
-			"faces": {
-				"north": {"uv": [0, 0, 1, 1], "texture": "#0"},
-				"east": {"uv": [0, 0, 1, 1], "texture": "#0"},
-				"south": {"uv": [0, 0, 1, 1], "texture": "#0"},
-				"west": {"uv": [0, 0, 1, 1], "texture": "#0"},
-				"up": {"uv": [0, 0, 1, 1], "texture": "#0"},
-				"down": {"uv": [0, 0, 1, 1], "texture": "#0"}
-			}
-		},
-		{
-			"name": "rm.cube",
-			"from": [5, 5, 0],
-			"to": [6, 6, 1],
 			"faces": {
 				"north": {"uv": [0, 0, 1, 1], "texture": "#0"},
 				"east": {"uv": [0, 0, 1, 1], "texture": "#0"},
