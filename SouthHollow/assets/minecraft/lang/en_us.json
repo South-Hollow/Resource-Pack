@@ -18,5 +18,12 @@
     "debug.chunk_boundaries.on": "§7Chunk borders §aenabled§7. Press §3F3§7+§3G §7to disable.",
     "debug.chunk_boundaries.off": "§7Chunk borders §cdisabled§7. Press §3F3§7+§3G §7to enable.",
     "language.name": "§aEnglish §8- §7SouthHollow Edition",
-    "connect.joining":""
+    "connect.joining":"",
+    "customblocks.item.customblocks:example.name": "Example",
+    "customblocks.item.customblocks:lbricks": "Limestone Bricks",
+    "customblocks.item.customblocks:lchiseled": "Chiseled Limestone",
+    "customblocks.item.customblocks:lcobblestone": "Limestone Cobblestone",
+    "customblocks.item.customblocks:lfancy_bricks": "Fancy Limestone Bricks",
+    "customblocks.item.customblocks:lplain": "Limestone",
+    "customblocks.item.customblocks:lpolished_slab": "Polished Limestone Slab"
 }
