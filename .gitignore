@@ -40,3 +40,11 @@ ehthumbs_vista.db
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
+/.idea/vcs.xml
+*.iml
+/.idea/discord.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/runConfigurations.xml
+/.idea/libraries/SouthHollow.xml
+/.idea/.gitignore
