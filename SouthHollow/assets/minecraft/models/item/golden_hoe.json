@@ -480,6 +480,10 @@
     {
       "predicate": { "custom_model_data": 816 },
       "model": "hats/glass/yellow"
+    },
+    {
+      "predicate": { "custom_model_data": 820 },
+      "model": "hats/axolotl/jebalotl"
     }
   ]
 }
