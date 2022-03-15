@@ -1,0 +1,41 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/filled_map"
+  },
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 0 },
+      "model": "item/filled_map"
+    },
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "naturaldisasters/mapicons/england"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "naturaldisasters/mapicons/icespike"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "naturaldisasters/mapicons/neighborhood"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "naturaldisasters/mapicons/mesa"
+    },
+    {
+      "predicate": { "custom_model_data": 5 },
+      "model": "naturaldisasters/mapicons/ravine"
+    },
+    {
+      "predicate": { "custom_model_data": 6 },
+      "model": "naturaldisasters/mapicons/house"
+    },
+    {
+      "predicate": { "custom_model_data": 7 },
+      "model": "naturaldisasters/mapicons/amusementpark"
+    }
+  ]
+}
