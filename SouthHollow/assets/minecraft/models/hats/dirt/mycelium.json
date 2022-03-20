@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "block/dirt",
-		"black": "block/dirt",
-		"particle": "block/dirt"
+		"1": "block/mycelium_top",
+		"black": "block/mycelium_side",
+		"particle": "block/mycelium_top"
 	},
 	"elements": [
 		{

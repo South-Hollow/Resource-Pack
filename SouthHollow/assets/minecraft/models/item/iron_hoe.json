@@ -242,6 +242,30 @@
       "model": "hats/2022"
     },
     {
+      "predicate": { "custom_model_data": 59 },
+      "model": "hats/dirt/coarse"
+    },
+    {
+      "predicate": { "custom_model_data": 60 },
+      "model": "hats/dirt/farmland"
+    },
+    {
+      "predicate": { "custom_model_data": 61 },
+      "model": "hats/dirt/grass"
+    },
+    {
+      "predicate": { "custom_model_data": 62 },
+      "model": "hats/dirt/mycelium"
+    },
+    {
+      "predicate": { "custom_model_data": 63 },
+      "model": "hats/dirt/path"
+    },
+    {
+      "predicate": { "custom_model_data": 64 },
+      "model": "hats/dirt/podzol"
+    },
+    {
       "predicate": { "custom_model_data": 69 },
       "model": "hats/trafficcone"
     },
