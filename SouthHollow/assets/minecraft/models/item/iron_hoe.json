@@ -266,6 +266,10 @@
       "model": "hats/dirt/podzol"
     },
     {
+      "predicate": { "custom_model_data": 65 },
+      "model": "hats/dirt/farmland_moist"
+    },
+    {
       "predicate": { "custom_model_data": 69 },
       "model": "hats/trafficcone"
     },
