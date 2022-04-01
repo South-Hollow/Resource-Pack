@@ -478,7 +478,7 @@
 	],
 	"display": {
 		"gui": {
-			"rotation": [20, -150, 0],
+			"rotation": [20, -154, 0],
 			"translation": [0, 0.25, 0],
 			"scale": [0.9, 0.9, 0.9]
 		}
