@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "minecraft:block/nether_gold_ore",
 	"textures": {
 		"0": "block/spruce_log",
 		"1": "block/gold_block",
