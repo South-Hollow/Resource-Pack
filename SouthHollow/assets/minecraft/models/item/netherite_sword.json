@@ -1,0 +1,20 @@
+{
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 0 },
+      "model": "tools/netherite_sword"
+    },
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "weapons/leansaber"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "weapons/zamnsaber"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "weapons/hollowsaber"
+    }
+  ]
+}
