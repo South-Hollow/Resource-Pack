@@ -242,6 +242,10 @@
       "model": "hats/2022"
     },
     {
+      "predicate": { "custom_model_data": 66 },
+      "model": "hats/trophy"
+    },
+    {
       "predicate": { "custom_model_data": 69 },
       "model": "hats/trafficcone"
     },
