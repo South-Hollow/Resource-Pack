@@ -36,6 +36,54 @@
     {
       "predicate": { "custom_model_data": 7 },
       "model": "naturaldisasters/mapicons/amusementpark"
+    },
+    {
+      "predicate": { "custom_model_data": 8 },
+      "model": "naturaldisasters/mapicons/nether"
+    },
+    {
+      "predicate": { "custom_model_data": 9 },
+      "model": "naturaldisasters/mapicons/beach"
+    },
+    {
+      "predicate": { "custom_model_data": 10 },
+      "model": "naturaldisasters/mapicons/globe"
+    },
+    {
+      "predicate": { "custom_model_data": 11 },
+      "model": "naturaldisasters/mapicons/worlds"
+    },
+    {
+      "predicate": { "custom_model_data": 12 },
+      "model": "naturaldisasters/mapicons/shipyards"
+    },
+    {
+      "predicate": { "custom_model_data": 13 },
+      "model": "naturaldisasters/mapicons/snowglobe"
+    },
+    {
+      "predicate": { "custom_model_data": 14 },
+      "model": "naturaldisasters/mapicons/wintervillage"
+    },
+    {
+      "predicate": { "custom_model_data": 15 },
+      "model": "naturaldisasters/mapicons/fantastic"
+    },
+    {
+      "predicate": { "custom_model_data": 16 },
+      "model": "naturaldisasters/mapicons/temple"
+    },
+    {
+      "predicate": { "custom_model_data": 17 },
+      "model": "naturaldisasters/mapicons/shroomville"
+    },
+    {
+      "predicate": { "custom_model_data": 18 },
+      "model": "naturaldisasters/mapicons/sinkingfeeling"
+    },
+    {
+      "predicate": { "custom_model_data": 19 },
+      "model": "naturaldisasters/mapicons/treasurevault"
     }
   ]
 }
