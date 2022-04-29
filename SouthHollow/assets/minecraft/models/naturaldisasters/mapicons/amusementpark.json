@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "naturaldisasters/mapicons/house",
+		"0": "naturaldisasters/mapicons/amusementpark",
 		"1": "naturaldisasters/mapicons/frame",
 		"particle": "naturaldisasters/mapicons/amusementpark"
 	},
