@@ -96,8 +96,35 @@
             "chars": ["\u2ED4"],
             "copy1": "⻔",
             "comment": "Fixes the spacing issue with most images."
-        }
-        ,
+        },
+        {
+            "type": "bitmap","file": "southhollow:chat/rex_happy.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\ue123"],
+            "copy1": ""
+        },
+        {
+            "type": "bitmap","file": "southhollow:chat/rex_happy.png",
+            "ascent": 8,
+            "height": 40,
+            "chars": ["\ue124"],
+            "copy1": ""
+        },
+        {
+            "type": "bitmap","file": "southhollow:chat/widesoccer.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["\ue125"],
+            "copy1": ""
+        },
+        {
+            "type": "bitmap","file": "southhollow:chat/widesoccer.png",
+            "ascent": 8,
+            "height": 40,
+            "chars": ["\ue126"],
+            "copy1": ""
+        },
         {
             "type": "bitmap","file": "southhollow:utils/space.png",
             "ascent": -32000,
