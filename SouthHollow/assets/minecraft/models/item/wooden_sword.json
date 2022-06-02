@@ -16,6 +16,10 @@
     {
       "predicate": { "custom_model_data": 2 },
       "model": "trkits/piratehook"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "trkits/frogs"
     }
   ]
 }
