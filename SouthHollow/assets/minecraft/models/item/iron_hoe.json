@@ -547,14 +547,10 @@
     },
     {
       "predicate": { "custom_model_data": 819 },
-      "model": "hats/Hermes"
-    },
-    {
-      "predicate": { "custom_model_data": 820 },
       "model": "hats/frog"
     },
     {
-      "predicate": { "custom_model_data": 821 },
+      "predicate": { "custom_model_data": 820 },
       "model": "hats/archer"
     }
   ]
