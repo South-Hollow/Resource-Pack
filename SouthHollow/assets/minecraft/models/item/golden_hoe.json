@@ -269,6 +269,10 @@
 	  "predicate": { "custom_model_data": 74},
 	  "model": "hats/parrot/greyparrot"
 	},
+	{
+	  "predicate": { "custom_model_data": 81},
+	  "model": "hats/lumberjackgreen"
+	},
     {
       "predicate": { "custom_model_data": 420 },
       "model": "hats/axolotl/pinkaxolotl"
