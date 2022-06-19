@@ -331,7 +331,7 @@
 	},
 	{
 	  "predicate": { "custom_model_data": 83},
-	  "model": "hats/pharoah2"
+	  "model": "hats/pharaoh2"
 	},
     {
       "predicate": { "custom_model_data": 420 },
