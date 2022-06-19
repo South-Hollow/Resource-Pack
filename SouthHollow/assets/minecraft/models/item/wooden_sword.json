@@ -23,7 +23,11 @@
     },
     {
       "predicate": { "custom_model_data": 4 },
-      "model": "trkits/hook"
+      "model": "hats/axolotl/pinkaxolotl"
+    },
+    {
+      "predicate": { "custom_model_data": 5 },
+      "model": "trkits/hatchet"
     }
   ]
 }
