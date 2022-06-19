@@ -564,7 +564,7 @@
     {
       "predicate": { "custom_model_data": 820 },
       "model": "hats/archer"
-    }
+    },
     {
       "predicate": { "custom_model_data": 830 },
       "model": "trkits/piratehat"
