@@ -84,6 +84,10 @@
     {
       "predicate": { "custom_model_data": 19 },
       "model": "naturaldisasters/mapicons/treasurevault"
+    },
+    {
+      "predicate": { "custom_model_data": 20 },
+      "model": "naturaldisasters/mapicons/farm"
     }
   ]
 }
