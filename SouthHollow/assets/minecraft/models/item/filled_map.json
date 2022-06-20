@@ -88,6 +88,10 @@
     {
       "predicate": { "custom_model_data": 20 },
       "model": "naturaldisasters/mapicons/farm"
+    },
+    {
+      "predicate": { "custom_model_data": 21 },
+      "model": "naturaldisasters/mapicons/waterfall"
     }
   ]
 }
