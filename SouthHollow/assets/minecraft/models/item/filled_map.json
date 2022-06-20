@@ -92,6 +92,10 @@
     {
       "predicate": { "custom_model_data": 21 },
       "model": "naturaldisasters/mapicons/waterfall"
+    },
+    {
+      "predicate": { "custom_model_data": 22 },
+      "model": "naturaldisasters/mapicons/urban"
     }
   ]
 }
