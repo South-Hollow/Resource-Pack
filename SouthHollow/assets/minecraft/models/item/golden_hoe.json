@@ -7,7 +7,7 @@
   "overrides": [
     {
       "predicate": { "custom_model_data": 0 },
-      "model": "tools/golden_hoe"
+      "model": "tools/iron_hoe"
     },
     {
       "predicate": { "custom_model_data": 1 },
@@ -242,6 +242,38 @@
       "model": "hats/2022"
     },
     {
+      "predicate": { "custom_model_data": 59 },
+      "model": "hats/dirt/coarse"
+    },
+    {
+      "predicate": { "custom_model_data": 60 },
+      "model": "hats/dirt/farmland"
+    },
+    {
+      "predicate": { "custom_model_data": 61 },
+      "model": "hats/dirt/grass"
+    },
+    {
+      "predicate": { "custom_model_data": 62 },
+      "model": "hats/dirt/mycelium"
+    },
+    {
+      "predicate": { "custom_model_data": 63 },
+      "model": "hats/dirt/path"
+    },
+    {
+      "predicate": { "custom_model_data": 64 },
+      "model": "hats/dirt/podzol"
+    },
+    {
+      "predicate": { "custom_model_data": 65 },
+      "model": "hats/dirt/farmland_moist"
+    },
+    {
+      "predicate": { "custom_model_data": 66 },
+      "model": "hats/trophy"
+    },
+    {
       "predicate": { "custom_model_data": 69 },
       "model": "hats/trafficcone"
     },
@@ -264,6 +296,34 @@
 	{
 	  "predicate": { "custom_model_data": 74},
 	  "model": "hats/parrot/greyparrot"
+	},
+	{
+	  "predicate": { "custom_model_data": 75},
+	  "model": "hats/mask"
+	},
+	{
+	  "predicate": { "custom_model_data": 76},
+	  "model": "hats/bluehat"
+	},
+	{
+	  "predicate": { "custom_model_data": 77},
+	  "model": "hats/gaming"
+	},
+	{
+	  "predicate": { "custom_model_data": 78},
+	  "model": "hats/eyepatch"
+	},
+	{
+	  "predicate": { "custom_model_data": 79},
+	  "model": "hats/ninja"
+	},
+	{
+	  "predicate": { "custom_model_data": 80},
+	  "model": "hats/blackcowboy"
+	},
+	{
+	  "predicate": { "custom_model_data": 81},
+	  "model": "hats/lumberjackgreen"
 	},
     {
       "predicate": { "custom_model_data": 420 },
@@ -480,6 +540,26 @@
     {
       "predicate": { "custom_model_data": 816 },
       "model": "hats/glass/yellow"
+    },
+    {
+      "predicate": { "custom_model_data": 817 },
+      "model": "hats/tiki"
+    },
+    {
+      "predicate": { "custom_model_data": 818 },
+      "model": "hats/pharoah"
+    },
+    {
+      "predicate": { "custom_model_data": 819 },
+      "model": "hats/frog"
+    },
+    {
+      "predicate": { "custom_model_data": 820 },
+      "model": "hats/archer"
+    },
+    {
+      "predicate": { "custom_model_data": 830 },
+      "model": "trkits/piratehat"
     }
   ]
 }

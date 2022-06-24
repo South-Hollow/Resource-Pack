@@ -2,110 +2,115 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "southhollow:branding/shlogo.png",
-            "ascent": 15,
-            "height": 60,
-            "chars": ["셚셙","션셗"]
+            "file": "southhollow:branding/logo_rectange.png",
+            "ascent": 8,
+            "height": 30,
+            "chars": ["\u0C18"],
+            "purpose": "Used in the in-game player list",
+            "copy": "ఘ"
         },
         {
             "type": "bitmap",
-            "file": "southhollow:branding/shlogo.png",
-            "ascent": 42,
-            "height": 90,
-            "chars": ["섏섐","섑섒"]
+            "file": "southhollow:branding/logo_rectange.png",
+            "ascent": 35,
+            "height": 35,
+            "chars": ["\u0C19"],
+            "purpose": "Used in the pause menu screen",
+            "copy": "ఙ"
         },
         {
             "type": "bitmap",
-            "file": "southhollow:countries/town.png",
-            "ascent": 42,
-            "height": 40,
-            "chars": ["섟","섯"]
-        },
-        {
-            "type": "bitmap",
-            "file": "southhollow:countries/town.png",
-            "ascent": 5,
-            "height": 15,
-            "chars": ["\uE003"]
+            "file": "southhollow:branding/logo_square.png",
+            "ascent": 8,
+            "height": 30,
+            "purpose": "Undecided",
+            "chars": ["ఊ"]
         },
         {
             "type": "bitmap",
             "file": "southhollow:hideandseek/mappreview/farm.png",
-            "ascent": 10,
-            "height": 30,
-            "chars": ["\uE004\uE005", "\uE006\uE007"],
-            "copy1": "",
-            "copy2": ""
+            "ascent": 8,
+            "height": 50,
+            "purpose": "HideAndSeek map preview",
+            "chars": ["\uE004"],
+            "copy": ""
         },
         {
             "type": "bitmap",
             "file": "southhollow:hideandseek/mappreview/countryhouse.png",
-            "ascent": 10,
-            "height": 30,
-            "chars": ["\uE008\uE009", "\uE010\uE011"],
-            "copy1": "",
-            "copy2": ""
+            "ascent": 8,
+            "height": 50,
+            "purpose": "HideAndSeek map preview",
+            "chars": ["\uE005"],
+            "copy": ""
         },
         {
             "type": "bitmap",
             "file": "southhollow:hideandseek/mappreview/warehouse.png",
-            "ascent": 10,
-            "height": 30,
-            "chars": ["\uE012\uE013", "\uE014\uE015"],
-            "copy1": "",
-            "copy2": ""
+            "ascent": 8,
+            "height": 50,
+            "purpose": "HideAndSeek map preview",
+            "chars": ["\uE006"],
+            "copy": ""
         },
         {
             "type": "bitmap",
             "file": "southhollow:hideandseek/mappreview/mineshaft.png",
-            "ascent": 10,
-            "height": 30,
-            "chars": ["\uE016\uE017", "\uE018\uE019"],
-            "copy1": "",
-            "copy2": ""
+            "ascent": 8,
+            "height": 50,
+            "purpose": "HideAndSeek map preview",
+            "chars": ["\uE007"],
+            "copy": ""
         },
         {
             "type": "bitmap",
             "file": "southhollow:hideandseek/mappreview/woolbomb.png",
-            "ascent": 10,
-            "height": 30,
-            "chars": ["\uE020\uE021", "\uE022\uE023"],
-            "copy1": "",
-            "copy2": ""
+            "ascent": 8,
+            "height": 50,
+            "purpose": "HideAndSeek map preview",
+            "chars": ["\uE008"],
+            "copy": ""
         },
         {
             "type": "bitmap",
             "file": "southhollow:hideandseek/mappreview/circus.png",
-            "ascent": 10,
-            "height": 30,
-            "chars": ["\uE024\uE025", "\uE026\uE027"],
-            "copy1": "",
-            "copy2": ""
+            "ascent": 8,
+            "height": 50,
+            "purpose": "HideAndSeek map preview",
+            "chars": ["\uE009"],
+            "copy": ""
         },
         {
-            "type": "bitmap",
-            "file": "southhollow:hideandseek/branding/shlogo.png",
-            "ascent": 5,
-            "height": 60,
-            "chars": ["⻈⻉","섑섒"]
+            "type": "bitmap","file": "southhollow:chat/rex_happy.png",
+            "ascent": 8,
+            "height": 9,
+            "purpose": "Chat emoji - in chat",
+            "chars": ["\ue123"],
+            "copy": ""
         },
         {
-            "type": "bitmap","file": "southhollow:utils/space.png",
-            "ascent": -32000,
-            "height": -3,
-            "chars": ["\u2ED4"],
-            "copy1": "⻔",
-            "comment": "Fixes the spacing issue with most images."
-        }
-        ,
+            "type": "bitmap","file": "southhollow:chat/rex_happy.png",
+            "ascent": 8,
+            "height": 40,
+            "purpose": "Chat emoji - on hover",
+            "chars": ["\ue124"],
+            "copy": ""
+        },
         {
-            "type": "bitmap","file": "southhollow:utils/space.png",
-            "ascent": -32000,
-            "height": -4,
-            "chars": ["\ue000"],
-            "copy1": "",
-            "comment": "Fixes the spacing issue with HAS images."
+            "type": "bitmap","file": "southhollow:chat/widesoccer.png",
+            "ascent": 8,
+            "height": 9,
+            "purpose": "Chat emoji - in chat",
+            "chars": ["\ue125"],
+            "copy": ""
+        },
+        {
+            "type": "bitmap","file": "southhollow:chat/widesoccer.png",
+            "ascent": 8,
+            "height": 40,
+            "purpose": "Chat emoji - on hover",
+            "chars": ["\ue126"],
+            "copy": ""
         }
-
     ]
 }

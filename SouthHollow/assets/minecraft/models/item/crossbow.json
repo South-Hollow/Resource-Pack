@@ -16,6 +16,14 @@
     {
       "predicate": { "custom_model_data": 2 },
       "model": "trkits/m1garand"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "wargames/rpg"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "trkits/flintlock"
     }
   ]
 }
