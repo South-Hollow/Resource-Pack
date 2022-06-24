@@ -18,6 +18,12 @@
     {"predicate": {"custom_model_data":1012}, "model":"block/sideways_stripped_silver_wood"},
     {"predicate": {"custom_model_data":1013}, "model":"block/limestone_pillar"},
     {"predicate": {"custom_model_data":1014}, "model":"block/paved_limestone"},
-    {"predicate": {"custom_model_data":3333}, "model":"other/trashcan"}
+    {"predicate": {"custom_model_data":3333}, "model":"other/trashcan"},
+    {"predicate":{"custom_model_data":100000},"model":"item/icons/filler"},
+    {"predicate":{"custom_model_data":100087},"model":"item/icons/bulb"},
+    {"predicate":{"custom_model_data":100091},"model":"item/icons/star"},
+    {"predicate":{"custom_model_data":100092},"model":"item/icons/heart"},
+    {"predicate":{"custom_model_data":100093},"model":"item/icons/thumbs_up"},
+    {"predicate":{"custom_model_data":100094},"model":"item/icons/thumbs_down"}
   ]
 }
