@@ -6,10 +6,6 @@
 
   "overrides": [
     {
-      "predicate": { "custom_model_data": 0 },
-      "model": "tools/redstone"
-    },
-    {
       "predicate": { "custom_model_data": 1 },
       "model": "naturaldisasters/bomber"
     },
