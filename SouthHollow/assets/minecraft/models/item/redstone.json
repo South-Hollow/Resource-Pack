@@ -7,7 +7,7 @@
   "overrides": [
     {
       "predicate": { "custom_model_data": 0 },
-      "model": "item/redstone"
+      "model": "item/redstone_dust"
     },
     {
       "predicate": { "custom_model_data": 1 },
