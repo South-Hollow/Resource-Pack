@@ -1,15 +1,15 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "1.14.3-OptiFine_HD_U_F1:block/tnt_top",
-		"1": "1.14.3-OptiFine_HD_U_F1:block/tnt_bottom",
-		"2": "1.14.3-OptiFine_HD_U_F1:block/tnt_side",
-		"3": "1.14.3-OptiFine_HD_U_F1:block/black_concrete",
-		"4": "1.14.3-OptiFine_HD_U_F1:block/white_concrete",
-		"5": "1.14.3-OptiFine_HD_U_F1:block/quartz_block_bottom",
+		"0": "block/tnt_top",
+		"1": "block/tnt_bottom",
+		"2": "block/tnt_side",
+		"3": "block/black_concrete",
+		"4": "block/white_concrete",
+		"5": "block/quartz_block_bottom",
 		"6": "block/deepslate_tiles",
 		"8": "block/quartz_bricks",
-		"particle": "1.14.3-OptiFine_HD_U_F1:block/tnt_top"
+		"particle": "block/tnt_top"
 	},
 	"elements": [
 		{
