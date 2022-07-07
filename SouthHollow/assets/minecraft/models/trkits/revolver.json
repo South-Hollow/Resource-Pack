@@ -333,8 +333,8 @@
 			"translation": [0, -3, -0.75]
 		},
 		"gui": {
-			"rotation": [0, -90, 0],
-			"translation": [-2.5, -0.5, 0]
+			"rotation": [-12, -127, -39],
+			"translation": [-1.75, -0.5, 0]
 		},
 		"head": {
 			"translation": [0, 2.25, -4.5]
