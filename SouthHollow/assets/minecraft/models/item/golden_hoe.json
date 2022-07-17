@@ -325,6 +325,14 @@
 	  "predicate": { "custom_model_data": 81},
 	  "model": "hats/lumberjackgreen"
 	},
+	{
+	  "predicate": { "custom_model_data": 82},
+	  "model": "hats/emerald_fedora"
+	},
+	{
+	  "predicate": { "custom_model_data": 83},
+	  "model": "hats/emerald_tophat"
+	},
     {
       "predicate": { "custom_model_data": 420 },
       "model": "hats/axolotl/pinkaxolotl"

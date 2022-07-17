@@ -323,7 +323,7 @@
 	},
 	{
 	  "predicate": { "custom_model_data": 81},
-	  "model": "hats/emerald_tophat"
+	  "model": "hats/lumberjackgreen"
 	},
 	{
 	  "predicate": { "custom_model_data": 82},
@@ -331,7 +331,7 @@
 	},
 	{
 	  "predicate": { "custom_model_data": 83},
-	  "model": "hats/lumberjackgreen"
+	  "model": "hats/emerald_tophat"
 	},
     {
       "predicate": { "custom_model_data": 420 },
