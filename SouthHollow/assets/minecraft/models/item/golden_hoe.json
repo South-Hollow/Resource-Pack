@@ -333,6 +333,10 @@
 	  "predicate": { "custom_model_data": 83},
 	  "model": "hats/emerald_tophat"
 	},
+	{
+	  "predicate": { "custom_model_data": 84},
+	  "model": "hats/buckethat"
+	},
     {
       "predicate": { "custom_model_data": 420 },
       "model": "hats/axolotl/pinkaxolotl"
