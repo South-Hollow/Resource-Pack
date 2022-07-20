@@ -36,6 +36,10 @@
     {
       "predicate": { "custom_model_data": 7 },
       "model": "trkits/mjolnir"
+    },
+    {
+      "predicate": { "custom_model_data": 8 },
+      "model": "trkits/baton"
     }
   ]
 }

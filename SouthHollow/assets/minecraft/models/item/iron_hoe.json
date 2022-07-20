@@ -572,6 +572,10 @@
     {
       "predicate": { "custom_model_data": 830 },
       "model": "trkits/piratehat"
+    },
+    {
+      "predicate": { "custom_model_data": 831 },
+      "model": "trkits/bird"
     }
   ]
 }
