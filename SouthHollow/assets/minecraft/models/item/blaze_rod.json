@@ -7,7 +7,7 @@
   "overrides": [
     {
       "predicate": { "custom_model_data": 0 },
-      "model": "item/blaze_rod"
+      "model": "tools/blaze_rod"
     },
     {
       "predicate": { "custom_model_data": 1 },
