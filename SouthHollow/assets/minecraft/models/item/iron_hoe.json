@@ -576,6 +576,14 @@
     {
       "predicate": { "custom_model_data": 831 },
       "model": "trkits/bird"
+    },
+    {
+      "predicate": { "custom_model_data": 832 },
+      "model": "hats/football"
+    },
+    {
+      "predicate": { "custom_model_data": 833 },
+      "model": "hats/skull"
     }
   ]
 }
