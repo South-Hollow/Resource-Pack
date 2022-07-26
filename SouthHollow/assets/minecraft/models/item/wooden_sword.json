@@ -28,6 +28,14 @@
     {
       "predicate": { "custom_model_data": 5 },
       "model": "trkits/hatchet"
+    },
+    {
+      "predicate": { "custom_model_data": 6 },
+      "model": "trkits/mjolnir"
+    },
+    {
+      "predicate": { "custom_model_data": 7 },
+      "model": "trkits/baton"
     }
   ]
 }

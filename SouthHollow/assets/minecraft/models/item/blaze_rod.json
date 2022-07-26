@@ -1,0 +1,17 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/blaze_rod"
+  },
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 0 },
+      "model": "trkits/blaze_rod"
+    },
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "trkits/ankh"
+    }
+  ]
+}

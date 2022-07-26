@@ -325,6 +325,18 @@
 	  "predicate": { "custom_model_data": 81},
 	  "model": "hats/lumberjackgreen"
 	},
+	{
+	  "predicate": { "custom_model_data": 82},
+	  "model": "hats/emerald_fedora"
+	},
+	{
+	  "predicate": { "custom_model_data": 83},
+	  "model": "hats/emerald_tophat"
+	},
+	{
+	  "predicate": { "custom_model_data": 84},
+	  "model": "hats/buckethat"
+	},
     {
       "predicate": { "custom_model_data": 420 },
       "model": "hats/axolotl/pinkaxolotl"
@@ -560,6 +572,18 @@
     {
       "predicate": { "custom_model_data": 830 },
       "model": "trkits/piratehat"
+    },
+    {
+      "predicate": { "custom_model_data": 831 },
+      "model": "trkits/bird"
+    },
+    {
+      "predicate": { "custom_model_data": 832 },
+      "model": "hats/football"
+    },
+    {
+      "predicate": { "custom_model_data": 833 },
+      "model": "hats/skull"
     }
   ]
 }

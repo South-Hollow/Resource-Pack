@@ -1,0 +1,29 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/redstone"
+  },
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 0 },
+      "model": "item/redstone"
+    },
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "naturaldisasters/bomber"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "naturaldisasters/bomber_no_bomb"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "naturaldisasters/bomber_spin"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "naturaldisasters/bomber_no_bomb_spin"
+    }
+  ]
+}
