@@ -11,7 +11,11 @@
     },
     {
       "predicate": { "custom_model_data": 1 },
-      "model": "wargames/diamond_horse_armor"
+      "model": "wargames/ar"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "wargames/glock"
     }
   ]
 }

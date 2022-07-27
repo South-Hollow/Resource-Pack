@@ -12,6 +12,30 @@
     {
       "predicate": { "custom_model_data": 1 },
       "model": "trkits/wing"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "trkits/piratehook"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "trkits/frogs"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "hats/axolotl/pinkaxolotl"
+    },
+    {
+      "predicate": { "custom_model_data": 5 },
+      "model": "trkits/hatchet"
+    },
+    {
+      "predicate": { "custom_model_data": 6 },
+      "model": "trkits/mjolnir"
+    },
+    {
+      "predicate": { "custom_model_data": 7 },
+      "model": "trkits/baton"
     }
   ]
 }
