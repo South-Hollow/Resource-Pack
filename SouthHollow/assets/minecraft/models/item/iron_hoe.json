@@ -338,6 +338,18 @@
       "model": "hats/buckethat"
     },
     {
+      "predicate": { "custom_model_data": 85 },
+      "model": "hats/bluelumberjack"
+    },
+    {
+      "predicate": { "custom_model_data": 86 },
+      "model": "hats/orangelumberjack"
+    },
+    {
+      "predicate": { "custom_model_data": 87 },
+      "model": "hats/pinklumberjack"
+    },
+    {
       "predicate": { "custom_model_data": 420 },
       "model": "hats/axolotl/pinkaxolotl"
     },
