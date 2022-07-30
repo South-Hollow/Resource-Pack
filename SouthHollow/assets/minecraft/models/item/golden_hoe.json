@@ -571,11 +571,11 @@
     },
     {
       "predicate": { "custom_model_data": 830 },
-      "model": "trkits/piratehat"
+      "model": "hats/piratehat"
     },
     {
       "predicate": { "custom_model_data": 831 },
-      "model": "trkits/bird"
+      "model": "hats/bird"
     },
     {
       "predicate": { "custom_model_data": 832 },
