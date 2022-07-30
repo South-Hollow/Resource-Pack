@@ -570,12 +570,20 @@
       "model": "hats/archer"
     },
     {
+      "predicate": { "custom_model_data": 821 },
+      "model": "hats/orangefrog"
+    },
+    {
+      "predicate": { "custom_model_data": 822 },
+      "model": "hats/whitefrog"
+    },
+    {
       "predicate": { "custom_model_data": 830 },
-      "model": "trkits/piratehat"
+      "model": "hats/piratehat"
     },
     {
       "predicate": { "custom_model_data": 831 },
-      "model": "trkits/bird"
+      "model": "hats/bird"
     },
     {
       "predicate": { "custom_model_data": 832 },
@@ -584,6 +592,14 @@
     {
       "predicate": { "custom_model_data": 833 },
       "model": "hats/skull"
+    },
+    {
+      "predicate": { "custom_model_data": 834 },
+      "model": "hats/floppahat"
+    },
+    {
+      "predicate": { "custom_model_data": 835 },
+      "model": "hats/mlgglasses"
     }
   ]
 }
