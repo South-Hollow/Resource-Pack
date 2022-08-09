@@ -111,7 +111,7 @@
             "purpose": "Chat emoji - on hover",
             "chars": ["\ue126"],
             "copy": ""
-        }
+        },
         {
             "type": "bitmap","file": "southhollow:chat/zigafidefortniteburger.png",
             "ascent": 8,
