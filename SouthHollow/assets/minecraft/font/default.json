@@ -111,6 +111,22 @@
             "purpose": "Chat emoji - on hover",
             "chars": ["\ue126"],
             "copy": ""
+        },
+        {
+            "type": "bitmap","file": "southhollow:chat/zigafidefortniteburger.png",
+            "ascent": 8,
+            "height": 9,
+            "purpose": "Chat emoji - in chat",
+            "chars": ["\ue128"],
+            "copy": ""
+        },
+        {
+            "type": "bitmap","file": "southhollow:chat/zigafidefortniteburger.png",
+            "ascent": 8,
+            "height": 40,
+            "purpose": "Chat emoji - on hover",
+            "chars": ["\ue127"],
+            "copy": ""
         }
     ]
 }
