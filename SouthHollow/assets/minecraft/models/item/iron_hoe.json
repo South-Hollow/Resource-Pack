@@ -350,6 +350,10 @@
       "model": "hats/pinklumberjack"
     },
     {
+      "predicate": { "custom_model_data": 88 },
+      "model": "hats/youtube"
+    },
+    {
       "predicate": { "custom_model_data": 420 },
       "model": "hats/axolotl/pinkaxolotl"
     },
