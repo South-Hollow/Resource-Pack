@@ -354,6 +354,10 @@
       "model": "hats/youtube"
     },
     {
+      "predicate": { "custom_model_data": 89 },
+      "model": "hats/candycorn"
+    },
+    {
       "predicate": { "custom_model_data": 420 },
       "model": "hats/axolotl/pinkaxolotl"
     },
