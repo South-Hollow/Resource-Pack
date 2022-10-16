@@ -584,26 +584,6 @@
     {
       "predicate": { "custom_model_data": 833 },
       "model": "hats/skull"
-    },
-    {
-      "predicate": { "custom_model_data": 834 },
-      "model": "hats/mushroom_hat"
-    },
-    {
-      "predicate": { "custom_model_data": 835 },
-      "model": "hats/krusty_krab_hat"
-    },
-    {
-      "predicate": { "custom_model_data": 836 },
-      "model": "hats/knight_helmet"
-    },
-    {
-      "predicate": { "custom_model_data": 837 },
-      "model": "hats/chef_hat"
-    },
-    {
-      "predicate": { "custom_model_data": 838 },
-      "model": "hats/brown_bear_hat"
     }
   ]
 }
