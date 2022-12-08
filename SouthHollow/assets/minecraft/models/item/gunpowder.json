@@ -1,0 +1,54 @@
+
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/gunpowder"
+  },
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "hideandseek/maps/unknown"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "hideandseek/maps/farm"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "hideandseek/maps/countryhouse"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "hideandseek/maps/warehouse"
+    },
+    {
+      "predicate": { "custom_model_data": 5 },
+      "model": "hideandseek/maps/mineshaft"
+    },
+    {
+      "predicate": { "custom_model_data": 6 },
+      "model": "hideandseek/maps/woolbomb"
+    },
+    {
+      "predicate": { "custom_model_data": 7 },
+      "model": "hideandseek/maps/circus"
+    },
+    {
+      "predicate": { "custom_model_data": 8 },
+      "model": "hideandseek/maps/bastion"
+    },
+    {
+      "predicate": { "custom_model_data": 9 },
+      "model": "hideandseek/maps/nether"
+    },
+    {
+      "predicate": { "custom_model_data": 10 },
+      "model": "hideandseek/maps/lab"
+    },
+    {
+      "predicate": { "custom_model_data": 11 },
+      "model": "hideandseek/maps/campsite"
+    }
+  ]
+}
