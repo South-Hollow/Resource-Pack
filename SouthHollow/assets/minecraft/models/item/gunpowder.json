@@ -7,6 +7,10 @@
 
   "overrides": [
     {
+      "predicate": { "custom_model_data": 0 },
+      "model": "item/gunpowder"
+    },
+    {
       "predicate": { "custom_model_data": 1 },
       "model": "hideandseek/maps/unknown"
     },
