@@ -11,7 +11,7 @@
         },
         {
             "type": "bitmap",
-            "file": "southhollow:branding/logo_rectange.png",
+            "file": "southhollow:branding/logo_rectangle.png",
             "ascent": 35,
             "height": 35,
             "chars": ["\u0C19"],
