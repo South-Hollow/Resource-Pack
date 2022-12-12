@@ -28,7 +28,7 @@
         },
         {
             "type": "bitmap",
-            "file": "southhollow:hideandseek/mappreview/farm.png",
+            "file": "southhollow:hideandseek/mapicons/farm.png",
             "ascent": 8,
             "height": 50,
             "purpose": "HideAndSeek map preview",
@@ -37,7 +37,7 @@
         },
         {
             "type": "bitmap",
-            "file": "southhollow:hideandseek/mappreview/countryhouse.png",
+            "file": "southhollow:hideandseek/mapicons/countryhouse.png",
             "ascent": 8,
             "height": 50,
             "purpose": "HideAndSeek map preview",
@@ -46,7 +46,7 @@
         },
         {
             "type": "bitmap",
-            "file": "southhollow:hideandseek/mappreview/warehouse.png",
+            "file": "southhollow:hideandseek/mapicons/warehouse.png",
             "ascent": 8,
             "height": 50,
             "purpose": "HideAndSeek map preview",
@@ -55,7 +55,7 @@
         },
         {
             "type": "bitmap",
-            "file": "southhollow:hideandseek/mappreview/mineshaft.png",
+            "file": "southhollow:hideandseek/mapicons/mineshaft.png",
             "ascent": 8,
             "height": 50,
             "purpose": "HideAndSeek map preview",
@@ -64,7 +64,7 @@
         },
         {
             "type": "bitmap",
-            "file": "southhollow:hideandseek/mappreview/woolbomb.png",
+            "file": "southhollow:hideandseek/mapicons/woolbomb.png",
             "ascent": 8,
             "height": 50,
             "purpose": "HideAndSeek map preview",
@@ -73,12 +73,48 @@
         },
         {
             "type": "bitmap",
-            "file": "southhollow:hideandseek/mappreview/circus.png",
+            "file": "southhollow:hideandseek/mapicons/circus.png",
             "ascent": 8,
             "height": 50,
             "purpose": "HideAndSeek map preview",
             "chars": ["\uE009"],
             "copy": ""
+        },
+        {
+            "type": "bitmap",
+            "file": "southhollow:hideandseek/mapicons/bastion.png",
+            "ascent": 8,
+            "height": 50,
+            "purpose": "HideAndSeek map preview",
+            "chars": ["\uE00A"],
+            "copy": ""
+        },
+        {
+            "type": "bitmap",
+            "file": "southhollow:hideandseek/mappreview/nether.png",
+            "ascent": 8,
+            "height": 50,
+            "purpose": "HideAndSeek map preview",
+            "chars": ["\uE00B"],
+            "copy": ""
+        },
+        {
+            "type": "bitmap",
+            "file": "southhollow:hideandseek/mappreview/lab.png",
+            "ascent": 8,
+            "height": 50,
+            "purpose": "HideAndSeek map preview",
+            "chars": ["\uE00C"],
+            "copy": ""
+        },
+        {
+            "type": "bitmap",
+            "file": "southhollow:hideandseek/mappicons/campsite.png",
+            "ascent": 8,
+            "height": 50,
+            "purpose": "HideAndSeek map preview",
+            "chars": ["\uE00D"],
+            "copy": ""
         },
         {
             "type": "bitmap",
