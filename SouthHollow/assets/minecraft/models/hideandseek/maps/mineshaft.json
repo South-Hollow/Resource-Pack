@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "hideandseek/mapicons/mineshaft",
+		"0": "southhollow:hideandseek/mapicons/mineshaft",
 		"particle": "unknown"
 	},
 	"elements": [
