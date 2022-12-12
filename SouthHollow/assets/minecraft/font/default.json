@@ -91,7 +91,7 @@
         },
         {
             "type": "bitmap",
-            "file": "southhollow:hideandseek/mappreview/nether.png",
+            "file": "southhollow:hideandseek/mapicons/nether.png",
             "ascent": 8,
             "height": 50,
             "purpose": "HideAndSeek map preview",
@@ -100,7 +100,7 @@
         },
         {
             "type": "bitmap",
-            "file": "southhollow:hideandseek/mappreview/lab.png",
+            "file": "southhollow:hideandseek/mapicons/lab.png",
             "ascent": 8,
             "height": 50,
             "purpose": "HideAndSeek map preview",
@@ -109,7 +109,7 @@
         },
         {
             "type": "bitmap",
-            "file": "southhollow:hideandseek/mappicons/campsite.png",
+            "file": "southhollow:hideandseek/mapicons/campsite.png",
             "ascent": 8,
             "height": 50,
             "purpose": "HideAndSeek map preview",
