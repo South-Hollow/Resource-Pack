@@ -21,12 +21,12 @@
 	"gui_light": "front",
 	"display": {
 		"gui": {
-			"translation": [-12, 5.5, -1],
+			"rotation": [0, 180, 0],
+			"translation": [12, 5.5, -1],
 			"scale": [1.73, 1.7, 5]
 		},
 		"fixed": {
-			"rotation" : [0, 180, 0],
-			"translation": [28, 16, 0],
+			"translation": [-28, 16, 0],
 			"scale": [4, 4, 1]
 		}
 	}
