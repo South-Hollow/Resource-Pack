@@ -620,6 +620,14 @@
     {
       "predicate": { "custom_model_data": 835 },
       "model": "hats/mlgglasses"
+    },
+    {
+      "predicate": { "custom_model_data": 836 },
+      "model": "hats/planets"
+    },
+    {
+      "predicate": { "custom_model_data": 837 },
+      "model": "hats/books"
     }
   ]
 }

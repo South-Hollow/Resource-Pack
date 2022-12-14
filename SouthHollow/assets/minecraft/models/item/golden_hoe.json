@@ -333,10 +333,30 @@
 	  "predicate": { "custom_model_data": 83},
 	  "model": "hats/emerald_tophat"
 	},
-	{
-	  "predicate": { "custom_model_data": 84},
-	  "model": "hats/buckethat"
-	},
+    {
+      "predicate": { "custom_model_data": 84 },
+      "model": "hats/buckethat"
+    },
+    {
+      "predicate": { "custom_model_data": 85 },
+      "model": "hats/bluelumberjack"
+    },
+    {
+      "predicate": { "custom_model_data": 86 },
+      "model": "hats/orangelumberjack"
+    },
+    {
+      "predicate": { "custom_model_data": 87 },
+      "model": "hats/pinklumberjack"
+    },
+    {
+      "predicate": { "custom_model_data": 88 },
+      "model": "hats/youtube"
+    },
+    {
+      "predicate": { "custom_model_data": 89 },
+      "model": "hats/candycorn"
+    },
     {
       "predicate": { "custom_model_data": 420 },
       "model": "hats/axolotl/pinkaxolotl"
@@ -570,6 +590,14 @@
       "model": "hats/archer"
     },
     {
+      "predicate": { "custom_model_data": 821 },
+      "model": "hats/orangefrog"
+    },
+    {
+      "predicate": { "custom_model_data": 822 },
+      "model": "hats/whitefrog"
+    },
+    {
       "predicate": { "custom_model_data": 830 },
       "model": "hats/piratehat"
     },
@@ -584,6 +612,22 @@
     {
       "predicate": { "custom_model_data": 833 },
       "model": "hats/skull"
+    },
+    {
+      "predicate": { "custom_model_data": 834 },
+      "model": "hats/floppahat"
+    },
+    {
+      "predicate": { "custom_model_data": 835 },
+      "model": "hats/mlgglasses"
+    },
+    {
+      "predicate": { "custom_model_data": 836 },
+      "model": "hats/planets"
+    },
+    {
+      "predicate": { "custom_model_data": 837 },
+      "model": "hats/books"
     }
   ]
 }
