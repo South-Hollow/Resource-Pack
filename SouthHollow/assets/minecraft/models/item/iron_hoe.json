@@ -442,6 +442,50 @@
       "model": "hats/fezcolors/yellowfez"
     },
     {
+      "predicate": { "custom_model_data": 500 },
+      "model": "hats/disguises/creeperdisguise"
+    },
+    {
+      "predicate": { "custom_model_data": 501 },
+      "model": "hats/disguises/stevedisguise"
+    },
+    {
+      "predicate": { "custom_model_data": 502 },
+      "model": "hats/disguises/alexdisguise"
+    },
+    {
+      "predicate": { "custom_model_data": 503 },
+      "model": "hats/disguises/zombiedisguise"
+    },
+    {
+      "predicate": { "custom_model_data": 504 },
+      "model": "hats/disguises/skeletondisguise"
+    },
+    {
+      "predicate": { "custom_model_data": 505 },
+      "model": "hats/disguises/pigdisguise"
+    },
+    {
+      "predicate": { "custom_model_data": 506 },
+      "model": "hats/disguises/endermandisguise"
+    },
+    {
+      "predicate": { "custom_model_data": 600 },
+      "model": "hats/flowercrown/flowercrownblue"
+    },
+    {
+      "predicate": { "custom_model_data": 601 },
+      "model": "hats/flowercrown/flowercrownpinks"
+    },
+    {
+      "predicate": { "custom_model_data": 602 },
+      "model": "hats/flowercrown/flowercrownrainbow"
+    },
+    {
+      "predicate": { "custom_model_data": 603 },
+      "model": "hats/flowercrown/flowercrownyelloworange"
+    },
+    {
       "predicate": { "custom_model_data": 690 },
       "model": "hats/wool/black"
     },
@@ -628,6 +672,22 @@
     {
       "predicate": { "custom_model_data": 837 },
       "model": "hats/books"
+    },
+    {
+      "predicate": { "custom_model_data": 838 },
+      "model": "hats/brown_bear_hat"
+    },
+    {
+      "predicate": { "custom_model_data": 839 },
+      "model": "hats/knight_helmet"
+    },
+    {
+      "predicate": { "custom_model_data": 840 },
+      "model": "hats/krusty_krab_hat"
+    },
+    {
+      "predicate": { "custom_model_data": 841 },
+      "model": "hats/mushroom_hat"
     }
   ]
 }
