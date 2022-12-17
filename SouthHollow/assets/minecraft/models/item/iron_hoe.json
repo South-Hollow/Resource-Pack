@@ -442,34 +442,6 @@
       "model": "hats/fezcolors/yellowfez"
     },
     {
-      "predicate": { "custom_model_data": 500 },
-      "model": "hats/disguises/creeperdisguise"
-    },
-    {
-      "predicate": { "custom_model_data": 501 },
-      "model": "hats/disguises/stevedisguise"
-    },
-    {
-      "predicate": { "custom_model_data": 502 },
-      "model": "hats/disguises/alexdisguise"
-    },
-    {
-      "predicate": { "custom_model_data": 503 },
-      "model": "hats/disguises/zombiedisguise"
-    },
-    {
-      "predicate": { "custom_model_data": 504 },
-      "model": "hats/disguises/skeletondisguise"
-    },
-    {
-      "predicate": { "custom_model_data": 505 },
-      "model": "hats/disguises/pigdisguise"
-    },
-    {
-      "predicate": { "custom_model_data": 506 },
-      "model": "hats/disguises/endermandisguise"
-    },
-    {
       "predicate": { "custom_model_data": 600 },
       "model": "hats/flowercrown/flowercrownblue"
     },
@@ -688,6 +660,10 @@
     {
       "predicate": { "custom_model_data": 841 },
       "model": "hats/mushroom_hat"
+    },
+    {
+      "predicate": { "custom_model_data": 842 },
+      "model": "hats/bunny"
     }
   ]
 }
