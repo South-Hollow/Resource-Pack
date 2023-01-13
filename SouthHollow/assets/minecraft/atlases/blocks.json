@@ -1,0 +1,14 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "hats",
+            "prefix": "hats/"
+        },
+        {
+            "type": "directory",
+            "source": "naturaldisasters",
+            "prefix": "naturaldisasters/"
+        }
+    ]
+}
