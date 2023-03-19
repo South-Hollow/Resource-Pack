@@ -3,7 +3,7 @@
 	"parent": "sh.policebaton",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "trkits/baton"
+		"1": "item/baton"
 	},
 	"elements": [
 		{

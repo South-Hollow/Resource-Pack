@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 32],
 	"textures": {
-		"0": "entity/squid/squid",
-		"particle": "entity/squid/squid"
+		"0": "hats/squid/squid",
+		"particle": "hats/squid/squid"
 	},
 	"elements": [
 		{

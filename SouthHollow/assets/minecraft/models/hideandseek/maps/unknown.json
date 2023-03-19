@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "southhollow:hideandseek/mapicons/unknown",
-		"particle": "unknown"
+		"0": "item/mapicons/unknown",
+		"particle": "item/mapicons/unknownsmall"
 	},
 	"elements": [
 		{

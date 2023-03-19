@@ -3,7 +3,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"6": "block/black_concrete",
-		"4_7": "entity/bee/bee_angry",
+		"4_7": "hats/hat/bee/bee_angry",
 		"3_2": "block/honey_block_bottom"
 	},
 	"elements": [

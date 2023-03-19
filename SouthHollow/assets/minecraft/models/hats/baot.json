@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 64],
 	"textures": {
-		"0": "entity/boat/acacia",
-		"particle": "entity/boat/acacia"
+		"0": "hats/hat/baot",
+		"particle": "hats/hat/baot"
 	},
 	"elements": [
 		{

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "entity/parrot/parrot_grey",
-		"particle": "entity/parrot/parrot_grey"
+		"0": "hats/hat/parrot/parrot_grey",
+		"particle": "hats/hat/parrot/parrot__grey"
 	},
 	"elements": [
 		{

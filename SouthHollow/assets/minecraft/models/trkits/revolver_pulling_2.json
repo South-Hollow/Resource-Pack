@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "trkits/netherite_block",
-		"1": "trkits/stripped_dark_oak_log",
-		"particle": "trkits/netherite_block"
+		"0": "item/netherite_block",
+		"1": "item/stripped_dark_oak_log",
+		"particle": "item/netherite_block"
 	},
 	"elements": [
 		{

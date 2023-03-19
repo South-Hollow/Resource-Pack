@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "southhollow:hideandseek/mapicons/campsite",
+		"0": "item/mapicons/campsite",
 		"particle": "unknown"
 	},
 	"elements": [
