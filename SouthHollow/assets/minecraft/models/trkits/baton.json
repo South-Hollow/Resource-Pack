@@ -3,32 +3,31 @@
 	"parent": "sh.policebaton",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "kits/baton",
-		"particle": "kits/baton"
+		"1": "trkits/baton"
 	},
 	"elements": [
 		{
 			"from": [7, 0, 7],
 			"to": [9, 20, 9],
 			"faces": {
-				"north": {"uv": [1, 1, 2, 11], "texture": "#0"},
-				"east": {"uv": [0, 1, 1, 11], "texture": "#0"},
-				"south": {"uv": [3, 1, 4, 11], "texture": "#0"},
-				"west": {"uv": [2, 1, 3, 11], "texture": "#0"},
-				"up": {"uv": [2, 1, 1, 0], "texture": "#0"},
-				"down": {"uv": [3, 0, 2, 1], "texture": "#0"}
+				"north": {"uv": [1, 1, 2, 11], "texture": "#1"},
+				"east": {"uv": [0, 1, 1, 11], "texture": "#1"},
+				"south": {"uv": [3, 1, 4, 11], "texture": "#1"},
+				"west": {"uv": [2, 1, 3, 11], "texture": "#1"},
+				"up": {"uv": [2, 1, 1, 0], "texture": "#1"},
+				"down": {"uv": [3, 0, 2, 1], "texture": "#1"}
 			}
 		},
 		{
 			"from": [7, 4, 9],
 			"to": [9, 6, 13],
 			"faces": {
-				"north": {"uv": [6.5, 2, 7.5, 3], "texture": "#missing"},
-				"east": {"uv": [4.5, 2, 6.5, 3], "texture": "#0"},
-				"south": {"uv": [9.5, 2, 10.5, 3], "texture": "#0"},
-				"west": {"uv": [7.5, 2, 9.5, 3], "texture": "#0"},
-				"up": {"uv": [7.5, 2, 6.5, 0], "texture": "#0"},
-				"down": {"uv": [8.5, 0, 7.5, 2], "texture": "#0"}
+				"north": {"uv": [6.5, 2, 7.5, 3], "texture": "#1"},
+				"east": {"uv": [4.5, 2, 6.5, 3], "texture": "#1"},
+				"south": {"uv": [9.5, 2, 10.5, 3], "texture": "#1"},
+				"west": {"uv": [7.5, 2, 9.5, 3], "texture": "#1"},
+				"up": {"uv": [7.5, 2, 6.5, 0], "texture": "#1"},
+				"down": {"uv": [8.5, 0, 7.5, 2], "texture": "#1"}
 			}
 		}
 	],
