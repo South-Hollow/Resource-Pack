@@ -38,7 +38,7 @@
       "model": "trkits/baton"
     },
     {
-      "predicate": { "custom_model_data": 100 },
+      "predicate": { "custom_model_data": 101 },
       "model": "custom/slimestick"
     }
   ]
