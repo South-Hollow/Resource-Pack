@@ -1,0 +1,8 @@
+{
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 100 },
+      "model": "survival/diamond_katana"
+    }
+  ]
+}
