@@ -9,6 +9,11 @@
             "type": "directory",
             "source": "naturaldisasters",
             "prefix": "naturaldisasters/"
+        },
+        {
+            "type": "directory",
+            "source": "survival",
+            "prefix": "survival/"
         }
     ]
 }
