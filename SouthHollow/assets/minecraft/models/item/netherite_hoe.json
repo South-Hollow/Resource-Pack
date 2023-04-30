@@ -7,7 +7,7 @@
   "overrides": [
     {
       "predicate": { "custom_model_data": 1 },
-      "model": "weapons/netherite_scythe"
+      "model": "survival/netherite_scythe"
     }
   ]
 }
