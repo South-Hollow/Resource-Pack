@@ -7,7 +7,7 @@
   "overrides": [
     {
       "predicate": { "custom_model_data": 1 },
-      "model": "weapons/netherit_hoe"
+      "model": "weapons/netherite_hoe"
     }
   ]
 }
