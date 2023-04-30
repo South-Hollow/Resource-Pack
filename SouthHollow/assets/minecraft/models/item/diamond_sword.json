@@ -6,16 +6,16 @@
 
   "overrides": [
     {
-      "predicate": { "custom_model_data": 100 },
-      "model": "survival/diamond_katana"
-    },
-    {
       "predicate": { "custom_model_data": 5 },
       "model": "survival/diamond_wither_sword"
     },
     {
       "predicate": { "custom_model_data": 6 },
       "model": "survival/diamond_critical_sword"
+    },
+    {
+      "predicate": { "custom_model_data": 100 },
+      "model": "survival/diamond_katana"
     }
   ]
 }
