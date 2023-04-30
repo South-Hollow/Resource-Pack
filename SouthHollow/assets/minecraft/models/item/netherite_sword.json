@@ -18,7 +18,7 @@
     },
     {
       "predicate": { "custom_model_data": 100 },
-      "model": "survival/netherite_katana"
+      "model": "weapons/netherite_katana"
     }
   ]
 }
