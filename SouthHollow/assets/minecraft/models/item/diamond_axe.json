@@ -1,0 +1,17 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/diamond_sword"
+  },
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "survival/diamond_fire_axe"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "survival/diamond_battle_axe"
+    }
+  ]
+}

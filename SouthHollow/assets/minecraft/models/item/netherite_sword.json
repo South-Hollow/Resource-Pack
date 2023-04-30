@@ -17,6 +17,10 @@
       "model": "weapons/hollowsaber"
     },
     {
+      "predicate": { "custom_model_data": 4 },
+      "model": "survival/diamond_lifesteal"
+    },
+    {
       "predicate": { "custom_model_data": 5 },
       "model": "survival/netherite_wither_sword"
     },

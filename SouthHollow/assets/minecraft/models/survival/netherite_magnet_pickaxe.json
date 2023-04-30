@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "survival/diamond_magnet_pickaxe"
+    "layer0": "survival/netherite_magnet_pickaxe"
   }
 }
