@@ -18,7 +18,7 @@
     },
     {
       "predicate": { "custom_model_data": 4 },
-      "model": "survival/diamond_lifesteal"
+      "model": "survival/netherite_lifesteal"
     },
     {
       "predicate": { "custom_model_data": 5 },
