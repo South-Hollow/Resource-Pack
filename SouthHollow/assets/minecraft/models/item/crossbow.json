@@ -216,6 +216,12 @@
 		},
 		{
 			"predicate": {
+				"custom_model_data": 101
+			},
+			"model": "survival/end_crossbow_standby"
+		},
+		{
+			"predicate": {
 				"custom_model_data": 101,
 				"pulling": 1
 			},
