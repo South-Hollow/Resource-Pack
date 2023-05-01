@@ -6,10 +6,6 @@
 
   "overrides": [
     {
-      "predicate": { "custom_model_data": 0 },
-      "model": "tools/wooden_sword"
-    },
-    {
       "predicate": { "custom_model_data": 1 },
       "model": "trkits/wing"
     },
