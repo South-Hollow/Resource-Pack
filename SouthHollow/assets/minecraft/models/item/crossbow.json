@@ -213,6 +213,44 @@
 				"firework": 1
 			},
 			"model": "trkits/flintlock_pulling_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 101,
+				"pulling": 1
+			},
+			"model": "survival/end_crossbow_pulling_0"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 101,
+				"pulling": 1,
+				"pull": 0.58
+			},
+			"model": "survival/end_crossbow_pulling_1"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 101,
+				"pulling": 1,
+				"pull": 1
+			},
+			"model": "survival/end_crossbow_pulling_2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 101,
+				"charged": 1
+			},
+			"model": "survival/end_crossbow_arrow"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 101,
+				"charged": 1,
+				"firework": 1
+			},
+			"model": "survival/end_crossbow_firework"
 		}
 	],
 	"display": {
