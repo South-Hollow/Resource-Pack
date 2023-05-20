@@ -358,6 +358,14 @@
       "model": "hats/candycorn"
     },
     {
+      "predicate": { "custom_model_data": 90 },
+      "model": "hats/end"
+    },
+    {
+      "predicate": { "custom_model_data": 91 },
+      "model": "hats/end_fedora"
+    },
+    {
       "predicate": { "custom_model_data": 420 },
       "model": "hats/axolotl/pinkaxolotl"
     },
