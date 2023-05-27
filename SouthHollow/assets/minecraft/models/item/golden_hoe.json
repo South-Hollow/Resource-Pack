@@ -7,7 +7,7 @@
   "overrides": [
     {
       "predicate": { "custom_model_data": 0 },
-      "model": "tools/iron_hoe"
+      "model": "tools/golden_hoe"
     },
     {
       "predicate": { "custom_model_data": 1 },
