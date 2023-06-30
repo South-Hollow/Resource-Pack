@@ -96,6 +96,10 @@
     {
       "predicate": { "custom_model_data": 22 },
       "model": "naturaldisasters/mapicons/urban"
+    },
+	{
+      "predicate": { "custom_model_data": 23 },
+      "model": "naturaldisasters/mapicons/lumberyard"
     }
   ]
 }
