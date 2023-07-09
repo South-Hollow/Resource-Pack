@@ -365,6 +365,10 @@
       "predicate": { "custom_model_data": 91 },
       "model": "hats/end_fedora"
     },
+	    {
+      "predicate": { "custom_model_data": 92 },
+      "model": "hats/nether_fedora"
+    },
     {
       "predicate": { "custom_model_data": 420 },
       "model": "hats/axolotl/pinkaxolotl"
