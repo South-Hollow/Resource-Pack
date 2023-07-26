@@ -370,6 +370,10 @@
       "model": "hats/nether_fedora"
     },
 	    {
+      "predicate": { "custom_model_data": 93 },
+      "model": "hats/nether_tophat"
+    },
+	    {
       "predicate": { "custom_model_data": 94 },
       "model": "hats/space"
     },
