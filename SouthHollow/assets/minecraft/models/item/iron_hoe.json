@@ -377,6 +377,10 @@
       "predicate": { "custom_model_data": 94 },
       "model": "hats/space"
     },
+	    {
+      "predicate": { "custom_model_data": 95 },
+      "model": "hats/helicopter"
+    },
     {
       "predicate": { "custom_model_data": 420 },
       "model": "hats/axolotl/pinkaxolotl"
