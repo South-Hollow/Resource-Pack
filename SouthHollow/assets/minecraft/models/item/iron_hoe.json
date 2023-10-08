@@ -319,7 +319,7 @@
 	},
 	{
 	  "predicate": { "custom_model_data": 80},
-	  "model": "hats/blackcowboy"
+	  "model": "hats/cowboyblack"
 	},
 	{
 	  "predicate": { "custom_model_data": 81},
@@ -384,6 +384,26 @@
 	    {
       "predicate": { "custom_model_data": 96 },
       "model": "hats/nav"
+    },
+	    {
+      "predicate": { "custom_model_data": 97 },
+      "model": "hats/cowboywhite"
+    },
+	    {
+      "predicate": { "custom_model_data": 98 },
+      "model": "hats/astro/astro"
+    },
+	    {
+      "predicate": { "custom_model_data": 99 },
+      "model": "hats/astro/astroamongus"
+    },
+	    {
+      "predicate": { "custom_model_data": 100 },
+      "model": "hats/astro/astroblack"
+    },
+	    {
+      "predicate": { "custom_model_data": 101 },
+      "model": "hats/astro/astroorange"
     },
     {
       "predicate": { "custom_model_data": 420 },
