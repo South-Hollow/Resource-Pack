@@ -100,6 +100,10 @@
 	{
       "predicate": { "custom_model_data": 23 },
       "model": "naturaldisasters/mapicons/lumberyard"
+    },
+	{
+      "predicate": { "custom_model_data": 24 },
+      "model": "naturaldisasters/mapicons/christmas"
     }
   ]
 }
