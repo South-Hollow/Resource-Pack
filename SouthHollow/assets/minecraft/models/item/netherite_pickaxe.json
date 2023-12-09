@@ -8,6 +8,10 @@
     {
       "predicate": { "custom_model_data": 1 },
       "model": "survival/netherite_magnet_pickaxe"
+    },
+    {
+      "predicate": { "custom_model_data": 47},
+      "model": "survival/christmas_pickaxe"
     }
   ]
 }

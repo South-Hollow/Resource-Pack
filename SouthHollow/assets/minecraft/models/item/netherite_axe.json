@@ -12,6 +12,10 @@
     {
       "predicate": { "custom_model_data": 4 },
       "model": "survival/netherite_battle_axe"
+    },
+    {
+      "predicate": { "custom_model_data": 47},
+      "model": "survival/christmas_axe"
     }
   ]
 }
