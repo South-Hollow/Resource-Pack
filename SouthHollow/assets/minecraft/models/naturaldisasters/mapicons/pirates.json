@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "naturaldisasters/mapicons/worlds",
+		"0": "naturaldisasters/mapicons/pirates",
 		"1": "naturaldisasters/mapicons/frame",
 		"particle": "naturaldisasters/mapicons/pirates"
 	},
