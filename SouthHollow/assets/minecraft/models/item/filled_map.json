@@ -104,6 +104,10 @@
 	{
       "predicate": { "custom_model_data": 24 },
       "model": "naturaldisasters/mapicons/christmas"
+    },
+	{
+      "predicate": { "custom_model_data": 25 },
+      "model": "naturaldisasters/mapicons/pirates"
     }
   ]
 }
