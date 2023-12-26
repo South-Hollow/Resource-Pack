@@ -108,6 +108,10 @@
 	{
       "predicate": { "custom_model_data": 25 },
       "model": "naturaldisasters/mapicons/pirates"
+    },
+	{
+      "predicate": { "custom_model_data": 26 },
+      "model": "naturaldisasters/mapicons/saintdenis"
     }
   ]
 }
