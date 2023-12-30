@@ -402,12 +402,12 @@
       "model": "hats/astro/astroblack"
     },
 	    {
-      "predicate": { "custom_model_data": 102 },
-      "model": "hats/2024"
-    },
-	    {
       "predicate": { "custom_model_data": 101 },
       "model": "hats/astro/astroorange"
+    },
+	    {
+      "predicate": { "custom_model_data": 102 },
+      "model": "hats/2024"
     },
     {
       "predicate": { "custom_model_data": 420 },
