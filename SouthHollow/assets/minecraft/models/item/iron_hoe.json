@@ -403,6 +403,10 @@
     },
 	    {
       "predicate": { "custom_model_data": 101 },
+      "model": "hats/2024"
+    },
+	    {
+      "predicate": { "custom_model_data": 101 },
       "model": "hats/astro/astroorange"
     },
     {
