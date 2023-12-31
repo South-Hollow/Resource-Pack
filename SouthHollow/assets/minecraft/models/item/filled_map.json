@@ -112,6 +112,14 @@
 	{
       "predicate": { "custom_model_data": 26 },
       "model": "naturaldisasters/mapicons/saintdenis"
+    },
+	{
+      "predicate": { "custom_model_data": 27 },
+      "model": "naturaldisasters/mapicons/burgerland"
+    },
+	{
+      "predicate": { "custom_model_data": 28 },
+      "model": "naturaldisasters/mapicons/bigandsmall"
     }
   ]
 }
