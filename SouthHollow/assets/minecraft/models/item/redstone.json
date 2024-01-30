@@ -30,11 +30,11 @@
       "model": "naturaldisasters/bomber_green"
     },
 	{
-      "predicate": { "custom_model_data": 5 },
+      "predicate": { "custom_model_data": 6 },
       "model": "naturaldisasters/bomber_green_spin"
     },
 	{
-      "predicate": { "custom_model_data": 6 },
+      "predicate": { "custom_model_data": 7 },
       "model": "naturaldisasters/green_tnt"
     }
   ]
