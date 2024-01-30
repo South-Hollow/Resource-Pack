@@ -24,6 +24,18 @@
     {
       "predicate": { "custom_model_data": 4 },
       "model": "naturaldisasters/bomber_no_bomb_spin"
+    },
+	{
+      "predicate": { "custom_model_data": 5 },
+      "model": "naturaldisasters/bomber_green"
+    },
+	{
+      "predicate": { "custom_model_data": 5 },
+      "model": "naturaldisasters/bomber_green_spin"
+    },
+	{
+      "predicate": { "custom_model_data": 6 },
+      "model": "naturaldisasters/green_tnt"
     }
   ]
 }
