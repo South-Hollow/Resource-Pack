@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/green_tnt_top",
-		"1": "block/green_tnt_bottom",
-		"2": "block/green_tnt_side",
+		"0": "naturaldisasters/green_tnt_top",
+		"1": "naturaldisasters/green_tnt_bottom",
+		"2": "naturaldisasters/green_tnt_side",
 		"3": "block/black_concrete",
 		"4": "block/white_concrete",
 		"5": "block/quartz_block_bottom",
