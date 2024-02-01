@@ -11,11 +11,11 @@
     },
     {
       "predicate": { "custom_model_data": 2 },
-      "model": "survival/diamond_magma_pickaxe"
+      "model": "survival/diamond_magma_pick"
     },
     {
       "predicate": { "custom_model_data": 3 },
-      "model": "survival/diamond_soul_pickaxe"
+      "model": "survival/diamond_soul_pick"
     },
     {
       "predicate": { "custom_model_data": 47},

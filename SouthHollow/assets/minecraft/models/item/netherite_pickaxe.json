@@ -11,11 +11,11 @@
     },
     {
       "predicate": { "custom_model_data": 2 },
-      "model": "survival/netherite_magma_pickaxe"
+      "model": "survival/netherite_magma_pick"
     },
     {
       "predicate": { "custom_model_data": 3 },
-      "model": "survival/netherite_soul_pickaxe"
+      "model": "survival/netherite_soul_pick"
     },
     {
       "predicate": { "custom_model_data": 47},
