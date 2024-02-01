@@ -14,6 +14,14 @@
       "model": "survival/netherite_battle_axe"
     },
     {
+      "predicate": { "custom_model_data": 5 },
+      "model": "survival/netherite_magnet_axe"
+    },
+    {
+      "predicate": { "custom_model_data": 6 },
+      "model": "survival/netherite_soul_axe"
+    },
+    {
       "predicate": { "custom_model_data": 47},
       "model": "survival/christmas_axe"
     }

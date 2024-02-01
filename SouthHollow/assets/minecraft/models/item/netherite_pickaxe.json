@@ -10,6 +10,14 @@
       "model": "survival/netherite_magnet_pickaxe"
     },
     {
+      "predicate": { "custom_model_data": 2 },
+      "model": "survival/netherite_magma_pickaxe"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "survival/netherite_soul_pickaxe"
+    },
+    {
       "predicate": { "custom_model_data": 47},
       "model": "survival/christmas_pickaxe"
     }

@@ -18,6 +18,10 @@
       "model": "survival/diamond_critical_sword"
     },
     {
+      "predicate": { "custom_model_data": 7 },
+      "model": "survival/diamond_soul_sword"
+    },
+    {
       "predicate": { "custom_model_data": 47},
       "model": "survival/christmas_sword"
     },

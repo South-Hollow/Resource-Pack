@@ -1,0 +1,17 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/netherite_shovel"
+  },
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1},
+      "model": "survival/netherite_magnet_shovel"
+    },
+    {
+      "predicate": { "custom_model_data": 2},
+      "model": "survival/netherite_soul_shovel"
+    }
+  ]
+}
