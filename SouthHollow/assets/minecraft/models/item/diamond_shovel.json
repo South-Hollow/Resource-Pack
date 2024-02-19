@@ -12,6 +12,10 @@
     {
       "predicate": { "custom_model_data": 2},
       "model": "survival/diamond_soul_shovel"
+    },
+    {
+      "predicate": { "custom_model_data": 3},
+      "model": "survival/diamond_soul_shovel"
     }
   ]
 }
