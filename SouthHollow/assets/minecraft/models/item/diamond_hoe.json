@@ -8,6 +8,10 @@
     {
       "predicate": { "custom_model_data": 1 },
       "model": "survival/diamond_scythe"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "survival/diamond_reaper_scythe"
     }
   ]
 }

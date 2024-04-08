@@ -8,6 +8,10 @@
     {
       "predicate": { "custom_model_data": 1 },
       "model": "survival/netherite_scythe"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "survival/netherite_reaper_scythe"
     }
   ]
 }
