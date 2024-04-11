@@ -22,6 +22,10 @@
       "model": "survival/diamond_soul_sword"
     },
     {
+      "predicate": { "custom_model_data": 8 },
+      "model": "survival/diamond_reaper_scythe"
+    },
+    {
       "predicate": { "custom_model_data": 47},
       "model": "survival/christmas_sword"
     },
