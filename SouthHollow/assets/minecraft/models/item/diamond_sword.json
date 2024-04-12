@@ -26,6 +26,14 @@
       "model": "survival/diamond_reaper_scythe"
     },
     {
+      "predicate": { "custom_model_data": 9 },
+      "model": "survival/ice_sword"
+    },
+    {
+      "predicate": { "custom_model_data": 10 },
+      "model": "survival/diamond_lucky_sword"
+    },
+    {
       "predicate": { "custom_model_data": 47},
       "model": "survival/christmas_sword"
     },
