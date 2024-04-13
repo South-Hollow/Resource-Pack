@@ -4,26 +4,38 @@
 	"textures": {
 		"layer0": "survival/netherite_broadsword"
 	},
-"display": {
-        "thirdperson_righthand": {
-            "rotation": [ 0, -90, 55 ],
-            "translation": [ 0, 4.0, 0.5 ],
-            "scale": [ 1.8, 1.8, 1.8 ]
-        },
-        "thirdperson_lefthand": {
-            "rotation": [ 0, 90, -55 ],
-            "translation": [ 0, 4.0, 0.5 ],
-            "scale": [ 1.8, 1.8, 1.8 ]
-        },
-        "firstperson_righthand": {
-            "rotation": [ 0, -90, 25 ],
-            "translation": [ 1.13, 3.2, 1.13 ],
-            "scale": [ 1, 1, 1 ]
-        },
-        "firstperson_lefthand": {
-            "rotation": [ 0, 90, -25 ],
-            "translation": [ 1.13, 3.2, 1.13 ],
-            "scale": [ 1, 1, 1 ]
-        	}
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 55],
+			"translation": [0, 13.75, -0.25],
+			"scale": [1.8, 1.8, 1.1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -55],
+			"translation": [0, 13.75, -0.25],
+			"scale": [1.8, 1.8, 1.1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 25],
+			"translation": [1.13, 7.2, 2.63],
+			"scale": [1, 1, 0.9]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, -25],
+			"translation": [1.13, 7.2, 2.63],
+			"scale": [1, 1, 0.9]
+		},
+		"ground": {
+			"translation": [0, 6.75, 0],
+			"scale": [1.8, 1.8, 1.2]
+		},
+		"gui": {
+			"translation": [4, 4, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"translation": [5, 5, 0.5],
+			"scale": [1.8, 1.8, 1.2]
+		}
 	}
 }
