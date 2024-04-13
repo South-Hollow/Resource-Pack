@@ -45,6 +45,10 @@
       "model": "survival/netherite_lucky_sword"
     },
     {
+      "predicate": { "custom_model_data": 11 },
+      "model": "survival/netherite_broadsword"
+    },
+    {
       "predicate": { "custom_model_data": 47},
       "model": "survival/christmas_sword"
     },
