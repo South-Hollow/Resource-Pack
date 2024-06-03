@@ -12,6 +12,22 @@
     {
       "predicate": { "custom_model_data": 2 },
       "model": "survival/speedboots"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "survival/healing_boots"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "survival/strength_boots"
+    },
+    {
+      "predicate": { "custom_model_data": 5 },
+      "model": "survival/frog_boots"
+    },
+    {
+      "predicate": { "custom_model_data": 6 },
+      "model": "survival/magma_boots"
     }
   ]
 }
