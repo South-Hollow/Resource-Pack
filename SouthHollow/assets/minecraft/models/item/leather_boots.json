@@ -28,6 +28,10 @@
     {
       "predicate": { "custom_model_data": 6 },
       "model": "survival/magma_boots"
+    },
+    {
+      "predicate": { "custom_model_data": 7 },
+      "model": "survival/soul_boots"
     }
   ]
 }

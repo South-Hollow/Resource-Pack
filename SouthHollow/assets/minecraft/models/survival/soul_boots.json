@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "survival/overlay2",
+		"layer1": "survival/soul_boots"
+	}
+}
