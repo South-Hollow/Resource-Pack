@@ -3,6 +3,6 @@
 	"parent": "minecraft:item/generated",
 	"textures": {
 		"layer0": "survival/overlay4",
-		"layer1": "survival/soulbound_chestplate"
+		"layer1": "survival/soul_chestplate"
 	}
 }
