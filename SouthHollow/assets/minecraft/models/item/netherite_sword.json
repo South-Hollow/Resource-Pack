@@ -49,6 +49,10 @@
       "model": "survival/netherite_broadsword"
     },
     {
+      "predicate": { "custom_model_data": 12 },
+      "model": "survival/netherite_dagger"
+    },
+    {
       "predicate": { "custom_model_data": 47},
       "model": "survival/christmas_sword"
     },
