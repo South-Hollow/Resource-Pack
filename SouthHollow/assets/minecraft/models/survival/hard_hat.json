@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "survival/overlay5",
+		"layer1": "survival/hard_hat"
+	}
+}

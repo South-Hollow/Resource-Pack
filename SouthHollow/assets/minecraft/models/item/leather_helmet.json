@@ -26,6 +26,10 @@
       "model": "survival/blaze_helmet"
     },
     {
+      "predicate": { "custom_model_data": 6 },
+      "model": "survival/hard_hat"
+    },
+    {
       "predicate": { "custom_model_data": 7 },
       "model": "survival/soul_helmet"
     }
