@@ -36,6 +36,10 @@
 	{
       "predicate": { "custom_model_data": 7 },
       "model": "naturaldisasters/green_tnt"
+    },
+	{
+      "predicate": { "custom_model_data": 8 },
+      "model": "naturaldisasters/chest_parachute"
     }
   ]
 }
