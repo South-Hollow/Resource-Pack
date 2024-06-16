@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"3": "entity/chest/normal",
+		"3": "naturaldisasters/normal",
 		"4": "block/blue_wool",
 		"particle": "block/blue_wool"
 	},
