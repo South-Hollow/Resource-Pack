@@ -415,7 +415,7 @@
     },
 	    {
       "predicate": { "custom_model_data": 104 },
-      "model": "hats/july4_blue_firework"
+      "model": "hats/july4_blue_rocket"
     },
 	    {
       "predicate": { "custom_model_data": 105 },
@@ -423,7 +423,7 @@
     },
 	    {
       "predicate": { "custom_model_data": 106 },
-      "model": "hats/july4_white_firework"
+      "model": "hats/july4_white_rocket"
     },
     {
       "predicate": { "custom_model_data": 420 },
