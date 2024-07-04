@@ -409,6 +409,22 @@
       "predicate": { "custom_model_data": 102 },
       "model": "hats/2024"
     },
+	    {
+      "predicate": { "custom_model_data": 103 },
+      "model": "hats/july4_blue"
+    },
+	    {
+      "predicate": { "custom_model_data": 104 },
+      "model": "hats/july4_blue_firework"
+    },
+	    {
+      "predicate": { "custom_model_data": 105 },
+      "model": "hats/july4_white"
+    },
+	    {
+      "predicate": { "custom_model_data": 106 },
+      "model": "hats/july4_white_firework"
+    },
     {
       "predicate": { "custom_model_data": 420 },
       "model": "hats/axolotl/pinkaxolotl"
