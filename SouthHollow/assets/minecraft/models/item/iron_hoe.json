@@ -425,6 +425,10 @@
       "predicate": { "custom_model_data": 106 },
       "model": "hats/july4_white_rocket"
     },
+	    {
+      "predicate": { "custom_model_data": 107 },
+      "model": "hats/sombreroyellow"
+    },
     {
       "predicate": { "custom_model_data": 420 },
       "model": "hats/axolotl/pinkaxolotl"
