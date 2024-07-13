@@ -27,38 +27,12 @@
             "chars": ["ఊ"]
         },
         {
-            "type": "bitmap",
-            "file": "southhollow:kingdoms/textual-logo.png",
-            "ascent": 8,
-            "height": 50,
-            "purpose": "Kingdoms Logo",
-            "chars": ["\uE190"],
-            "copy": ""
-        },
-        {
-            "type": "bitmap",
-            "file": "southhollow:kingdoms/textual-logo.png",
-            "ascent": 16,
-            "height": 20,
-            "purpose": "Kingdoms Logo For Title",
-            "chars": ["\uE191"],
-            "copy": ""
-        },
-        {
             "type": "bitmap","file": "southhollow:chat/rex_happy.png",
             "ascent": 8,
             "height": 9,
             "purpose": "Chat emoji - in chat",
             "chars": ["\ue123"],
             "copy": ""
-        },
-        {
-            "type": "bitmap","file": "southhollow:chat/rex_happy.png",
-            "ascent": 8,
-            "height": 40,
-            "purpose": "Chat emoji - on hover",
-            "chars": ["\ue124"],
-            "copy": ""
         },
         {
             "type": "bitmap","file": "southhollow:chat/widesoccer.png",
@@ -69,28 +43,12 @@
             "copy": ""
         },
         {
-            "type": "bitmap","file": "southhollow:chat/widesoccer.png",
-            "ascent": 8,
-            "height": 40,
-            "purpose": "Chat emoji - on hover",
-            "chars": ["\ue126"],
-            "copy": ""
-        },
-        {
             "type": "bitmap","file": "southhollow:chat/zigafidefortniteburger.png",
             "ascent": 8,
             "height": 9,
             "purpose": "Chat emoji - in chat",
             "chars": ["\ue128"],
             "copy": ""
-        },
-        {
-            "type": "bitmap","file": "southhollow:chat/zigafidefortniteburger.png",
-            "ascent": 8,
-            "height": 40,
-            "purpose": "Chat emoji - on hover",
-            "chars": ["\ue127"],
-            "copy": ""
         }
     ]
 }
