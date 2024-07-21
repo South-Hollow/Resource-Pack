@@ -120,6 +120,14 @@
 	{
       "predicate": { "custom_model_data": 28 },
       "model": "naturaldisasters/mapicons/bigandsmall"
+    },
+	{
+      "predicate": { "custom_model_data": 29 },
+      "model": "naturaldisasters/mapicons/wartorn"
+    },
+	{
+      "predicate": { "custom_model_data": 30 },
+      "model": "naturaldisasters/mapicons/school"
     }
   ]
 }
