@@ -49,6 +49,14 @@
             "purpose": "Chat emoji - in chat",
             "chars": ["\ue128"],
             "copy": ""
+        },
+		        {
+            "type": "bitmap","file": "southhollow:chat/50.png",
+            "ascent": 27,
+            "height": 27,
+            "purpose": "Chat emoji - in chat",
+            "chars": ["\ue000"],
+            "copy": ""
         }
     ]
 }
