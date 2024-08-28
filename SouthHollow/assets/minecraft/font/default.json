@@ -44,7 +44,7 @@
         },
         {
             "type": "bitmap","file": "southhollow:chat/zigafidefortniteburger.png",
-            "ascent": 8,
+            "ascent": 27,
             "height": 27,
             "purpose": "Chat emoji - in chat",
             "chars": ["\ue128"],
