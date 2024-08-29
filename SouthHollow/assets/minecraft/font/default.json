@@ -57,6 +57,14 @@
             "purpose": "Chat emoji - in chat",
             "chars": ["\ue000"],
             "copy": ""
+        },
+		        {
+            "type": "bitmap","file": "southhollow:chat/zoombrody.png",
+            "ascent": 13,
+            "height": 27,
+            "purpose": "Chat emoji - in chat",
+            "chars": ["\ue001"],
+            "copy": ""
         }
     ]
 }
