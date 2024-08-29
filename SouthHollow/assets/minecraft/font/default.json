@@ -60,7 +60,7 @@
         },
 		        {
             "type": "bitmap","file": "southhollow:chat/zoombrody.png",
-            "ascent": 11,
+            "ascent": 18,
             "height": 24,
             "purpose": "Chat emoji - in chat",
             "chars": ["\ue001"],
