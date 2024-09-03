@@ -38,6 +38,10 @@
       "model": "trkits/hammer"
     },
     {
+      "predicate": { "custom_model_data": 89 },
+      "model": "trkits/iron_katana"
+    },
+    {
       "predicate": { "custom_model_data": 101 },
       "model": "custom/slimestick"
     }
