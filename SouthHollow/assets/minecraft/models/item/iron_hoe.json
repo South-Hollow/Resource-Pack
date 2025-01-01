@@ -433,6 +433,10 @@
       "predicate": { "custom_model_data": 108 },
       "model": "hats/detective"
     },
+	    {
+      "predicate": { "custom_model_data": 109 },
+      "model": "hats/2025"
+    },
     {
       "predicate": { "custom_model_data": 420 },
       "model": "hats/axolotl/pinkaxolotl"
