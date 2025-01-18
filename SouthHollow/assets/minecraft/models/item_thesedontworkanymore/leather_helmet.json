@@ -1,0 +1,37 @@
+{
+  "parent": "item/generated",
+  "textures": {
+        "layer0": "item/leather_helmet",
+        "layer1": "item/leather_helmet_overlay"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "survival/miner_helmet"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "survival/snorkel"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "survival/chef_helmet"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "survival/regeneration_helmet"
+    },
+    {
+      "predicate": { "custom_model_data": 5 },
+      "model": "survival/blaze_helmet"
+    },
+    {
+      "predicate": { "custom_model_data": 6 },
+      "model": "survival/hard_hat"
+    },
+    {
+      "predicate": { "custom_model_data": 7 },
+      "model": "survival/soul_helmet"
+    }
+  ]
+}

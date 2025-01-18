@@ -1,0 +1,17 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/stone_pickaxe"
+  },
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 0 },
+      "model": "tools/stone_pickaxe"
+    },
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "trkits/axolotltail"
+    }
+  ]
+}

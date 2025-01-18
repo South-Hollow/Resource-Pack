@@ -1,0 +1,137 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/filled_map"
+  },
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 0 },
+      "model": "item/filled_map"
+    },
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "naturaldisasters/mapicons/england"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "naturaldisasters/mapicons/icespike"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "naturaldisasters/mapicons/neighborhood"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "naturaldisasters/mapicons/mesa"
+    },
+    {
+      "predicate": { "custom_model_data": 5 },
+      "model": "naturaldisasters/mapicons/ravine"
+    },
+    {
+      "predicate": { "custom_model_data": 6 },
+      "model": "naturaldisasters/mapicons/house"
+    },
+    {
+      "predicate": { "custom_model_data": 7 },
+      "model": "naturaldisasters/mapicons/amusementpark"
+    },
+    {
+      "predicate": { "custom_model_data": 8 },
+      "model": "naturaldisasters/mapicons/nether"
+    },
+    {
+      "predicate": { "custom_model_data": 9 },
+      "model": "naturaldisasters/mapicons/beach"
+    },
+    {
+      "predicate": { "custom_model_data": 10 },
+      "model": "naturaldisasters/mapicons/globe"
+    },
+    {
+      "predicate": { "custom_model_data": 11 },
+      "model": "naturaldisasters/mapicons/worlds"
+    },
+    {
+      "predicate": { "custom_model_data": 12 },
+      "model": "naturaldisasters/mapicons/shipyards"
+    },
+    {
+      "predicate": { "custom_model_data": 13 },
+      "model": "naturaldisasters/mapicons/snowglobe"
+    },
+    {
+      "predicate": { "custom_model_data": 14 },
+      "model": "naturaldisasters/mapicons/wintervillage"
+    },
+    {
+      "predicate": { "custom_model_data": 15 },
+      "model": "naturaldisasters/mapicons/fantastic"
+    },
+    {
+      "predicate": { "custom_model_data": 16 },
+      "model": "naturaldisasters/mapicons/temple"
+    },
+    {
+      "predicate": { "custom_model_data": 17 },
+      "model": "naturaldisasters/mapicons/shroomville"
+    },
+    {
+      "predicate": { "custom_model_data": 18 },
+      "model": "naturaldisasters/mapicons/sinkingfeeling"
+    },
+    {
+      "predicate": { "custom_model_data": 19 },
+      "model": "naturaldisasters/mapicons/treasurevault"
+    },
+    {
+      "predicate": { "custom_model_data": 20 },
+      "model": "naturaldisasters/mapicons/farm"
+    },
+    {
+      "predicate": { "custom_model_data": 21 },
+      "model": "naturaldisasters/mapicons/waterfall"
+    },
+    {
+      "predicate": { "custom_model_data": 22 },
+      "model": "naturaldisasters/mapicons/urban"
+    },
+	{
+      "predicate": { "custom_model_data": 23 },
+      "model": "naturaldisasters/mapicons/lumberyard"
+    },
+	{
+      "predicate": { "custom_model_data": 24 },
+      "model": "naturaldisasters/mapicons/christmas"
+    },
+	{
+      "predicate": { "custom_model_data": 25 },
+      "model": "naturaldisasters/mapicons/pirates"
+    },
+	{
+      "predicate": { "custom_model_data": 26 },
+      "model": "naturaldisasters/mapicons/saintdenis"
+    },
+	{
+      "predicate": { "custom_model_data": 27 },
+      "model": "naturaldisasters/mapicons/burgerland"
+    },
+	{
+      "predicate": { "custom_model_data": 28 },
+      "model": "naturaldisasters/mapicons/bigandsmall"
+    },
+	{
+      "predicate": { "custom_model_data": 29 },
+      "model": "naturaldisasters/mapicons/wartorn"
+    },
+	{
+      "predicate": { "custom_model_data": 30 },
+      "model": "naturaldisasters/mapicons/school"
+    },
+		{
+      "predicate": { "custom_model_data": 31 },
+      "model": "naturaldisasters/mapicons/skyscraper"
+    }
+  ]
+}

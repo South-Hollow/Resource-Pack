@@ -1,0 +1,110 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "model",
+          "model": "weapons/leansaber"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "model",
+          "model": "weapons/zamnsaber"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "model",
+          "model": "weapons/hollowsaber"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "model",
+          "model": "survival/netherite_lifesteal"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "model",
+          "model": "survival/netherite_wither_sword"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "model",
+          "model": "survival/netherite_critical_sword"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "model",
+          "model": "survival/netherite_soul_sword"
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "model",
+          "model": "survival/netherite_reaper_scythe"
+        }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "model",
+          "model": "survival/ice_sword"
+        }
+      },
+      {
+        "threshold": 10,
+        "model": {
+          "type": "model",
+          "model": "survival/netherite_lucky_sword"
+        }
+      },
+      {
+        "threshold": 11,
+        "model": {
+          "type": "model",
+          "model": "survival/netherite_broadsword"
+        }
+      },
+      {
+        "threshold": 12,
+        "model": {
+          "type": "model",
+          "model": "survival/netherite_dagger"
+        }
+      },
+      {
+        "threshold": 47,
+        "model": {
+          "type": "model",
+          "model": "survival/christmas_sword"
+        }
+      },
+      {
+        "threshold": 100,
+        "model": {
+          "type": "model",
+          "model": "survival/netherite_katana"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/netherite_sword"
+    }
+  }
+}
