@@ -101,8 +101,8 @@
 	"display": {
 		"head": {
 			"rotation": [0, -90, 0],
-			"translation": [-12.25, -19.5, 14.25],
-			"scale": [3, 3, 3]
+			"translation": [-16, -19.5, 14.25],
+			"scale": [4, 4, 4]
 		}
 	},
 	"groups": [
