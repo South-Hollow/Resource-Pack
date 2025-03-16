@@ -1,0 +1,75 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "threshold": 1,
+        "model": {
+          "type": "model",
+          "model": "naturaldisasters/bomber"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "model",
+          "model": "naturaldisasters/bomber_no_bomb"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "model",
+          "model": "naturaldisasters/bomber_spin"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "model",
+          "model": "naturaldisasters/bomber_no_bomb_spin"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "model",
+          "model": "naturaldisasters/bomber_green"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "model",
+          "model": "naturaldisasters/bomber_green_spin"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "model",
+          "model": "naturaldisasters/green_tnt"
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "model",
+          "model": "naturaldisasters/chest_parachute"
+        }
+      },
+	  {
+        "threshold": 9,
+        "model": {
+          "type": "model",
+          "model": "naturaldisasters/parachute"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "item/redstone"
+    }
+  }
+}
