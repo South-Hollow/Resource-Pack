@@ -1,7 +1,9 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"4": "item/flintlock"
+		"4": "item/flintlock",
+		"particle": "item/flintlock"
 	},
 	"elements": [
 		{
@@ -206,13 +208,21 @@
 			"translation": [0, -3.75, 0]
 		},
 		"gui": {
-			"rotation": [90, 50.5, -90],
+			"rotation": [119, 61, -90],
 			"translation": [-2.5, -0.75, 0],
 			"scale": [1.5, 1.5, 1.5]
 		},
+		"head": {
+			"translation": [0, 0, -8.25]
+		},
 		"fixed": {
-			"rotation": [180, 90, 180],
+			"rotation": [-180, 90, -180],
 			"translation": [-1.25, -3.25, -0.5],
+			"scale": [1.5, 1.5, 1.49]
+		},
+		"on_shelf": {
+			"rotation": [-180, 90, -180],
+			"translation": [-1.25, -3.25, -3],
 			"scale": [1.5, 1.5, 1.49]
 		}
 	}

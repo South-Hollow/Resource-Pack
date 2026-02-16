@@ -16,6 +16,13 @@
           "type": "model",
           "model": "trkits/wing"
         }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "model",
+          "model": "trkits/piratehook"
+        }
       }
     ],
     "fallback": {
