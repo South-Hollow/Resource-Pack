@@ -8,7 +8,7 @@ The use, modification or any kind of traffic of these files are forbidden withou
 
 ========== Information ==========
 
-Network: SouthHollow & Vexelosity
+Network: SouthHollow
 
 Contributors:
 zigafide, Rowann, ItsAtomicos, Rextex3000, Unit_5387, Gustavo_Cruz_
@@ -19,6 +19,3 @@ https://southhollow.net/
 ========== Contact ==========
 Primary:
 southhollowmc@gmail.com
-
-Alternative:
-ItsMCB.Business@gmail.com
