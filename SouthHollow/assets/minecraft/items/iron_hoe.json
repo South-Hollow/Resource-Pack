@@ -739,6 +739,62 @@
         }
       },
       {
+        "threshold": 110,
+        "model": {
+          "type": "model",
+          "model": "hats/easter_brown"
+        }
+      },
+      {
+        "threshold": 111,
+        "model": {
+          "type": "model",
+          "model": "hats/easter_white"
+        }
+      },
+      {
+        "threshold": 112,
+        "model": {
+          "type": "model",
+          "model": "hats/easter_black"
+        }
+      },
+      {
+        "threshold": 113,
+        "model": {
+          "type": "model",
+          "model": "hats/easter_white_splotched"
+        }
+      },
+      {
+        "threshold": 114,
+        "model": {
+          "type": "model",
+          "model": "hats/easter_gold"
+        }
+      },
+      {
+        "threshold": 115,
+        "model": {
+          "type": "model",
+          "model": "hats/easter_salt"
+        }
+      },
+      {
+        "threshold": 116,
+        "model": {
+          "type": "model",
+          "model": "hats/easter_killer"
+        }
+      },
+      {
+        "threshold": 117,
+        "model": {
+          "type": "model",
+          "model": "hats/easter_toast"
+        }
+      },
+      {
         "threshold": 420,
         "model": {
           "type": "model",
