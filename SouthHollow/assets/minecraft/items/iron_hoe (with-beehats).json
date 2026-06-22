@@ -389,6 +389,20 @@
         }
       },
       {
+        "threshold": 56,
+        "model": {
+          "type": "model",
+          "model": "hats/bee"
+        }
+      },
+      {
+        "threshold": 57,
+        "model": {
+          "type": "model",
+          "model": "hats/angrybee"
+        }
+      },
+      {
         "threshold": 58,
         "model": {
           "type": "model",
